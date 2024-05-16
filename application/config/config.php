@@ -15,7 +15,7 @@
 |
 */
 $config['base_url']	= 'http://localhost/mym_facturador/';
-$config['version'] = '1.2';
+$config['version'] = '1.3';
 
 /*
 |--------------------------------------------------------------------------
