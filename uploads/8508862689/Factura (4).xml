@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202401179212974500120120010012851305479031511</numeroAutorizacion>
+<fechaAutorizacion>2024-04-02T17:49:53-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+
+<infoTributaria>
+
+<ambiente>2</ambiente>
+
+<tipoEmision>1</tipoEmision>
+
+<razonSocial>INDUSTRIA PROCESADORA DE ALIMENTOS NACIONALES MONTENEGRO MENA SA</razonSocial>
+
+<ruc>1792129745001</ruc>
+
+<claveAcceso>0104202401179212974500120120010012851305479031511</claveAcceso>
+
+<codDoc>01</codDoc>
+
+<estab>012</estab>
+
+<ptoEmi>001</ptoEmi>
+
+<secuencial>001285130</secuencial>
+
+<dirMatriz>RIOBAMBA N56-34 Y AV. CARLOS V</dirMatriz>
+
+</infoTributaria>
+
+<infoFactura>
+
+<fechaEmision>01/04/2024</fechaEmision>
+
+<dirEstablecimiento>SAN CAMILO S/N Y PANAMERICANA NORTE</dirEstablecimiento>
+
+<contribuyenteEspecial>698</contribuyenteEspecial>
+
+<obligadoContabilidad>SI</obligadoContabilidad>
+
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+
+<razonSocialComprador>KARINA OROSCO</razonSocialComprador>
+
+<identificacionComprador>1713654315001</identificacionComprador>
+
+<direccionComprador>la kennedy</direccionComprador>
+
+<totalSinImpuestos>6.88</totalSinImpuestos>
+
+<totalDescuento>0.00</totalDescuento>
+
+<totalConImpuestos>
+
+<totalImpuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>4</codigoPorcentaje>
+
+<descuentoAdicional>0.00</descuentoAdicional>
+
+<baseImponible>5.22</baseImponible>
+
+<valor>0.78</valor>
+
+</totalImpuesto>
+
+<totalImpuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>0</codigoPorcentaje>
+
+<descuentoAdicional>0.00</descuentoAdicional>
+
+<baseImponible>1.66</baseImponible>
+
+<valor>0.00</valor>
+
+</totalImpuesto>
+
+</totalConImpuestos>
+
+<propina>0.00</propina>
+
+<importeTotal>7.66</importeTotal>
+
+<moneda>DOLAR</moneda>
+
+<pagos>
+
+<pago>
+
+<formaPago>01</formaPago>
+
+<total>7.66</total>
+
+<plazo>0</plazo>
+
+<unidadTiempo>mes(es)</unidadTiempo>
+
+</pago>
+
+</pagos>
+
+</infoFactura>
+
+<detalles>
+
+<detalle>
+
+<codigoPrincipal>PS089</codigoPrincipal>
+
+<descripcion>MINI MELVA</descripcion>
+
+<cantidad>1.000000</cantidad>
+
+<precioUnitario>2.826090</precioUnitario>
+
+<descuento>0.00</descuento>
+
+<precioTotalSinImpuesto>2.83</precioTotalSinImpuesto>
+
+<detallesAdicionales>
+
+<detAdicional nombre="Factor" valor="1"></detAdicional>
+
+<detAdicional nombre="Cantidad" valor="1.00000"></detAdicional>
+
+<detAdicional nombre="Unidad" valor="CAJ"></detAdicional>
+
+</detallesAdicionales>
+
+<impuestos>
+
+<impuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>4</codigoPorcentaje>
+
+<tarifa>15.00</tarifa>
+
+<baseImponible>2.83</baseImponible>
+
+<valor>0.42</valor>
+
+</impuesto>
+
+</impuestos>
+
+</detalle>
+
+<detalle>
+
+<codigoPrincipal>PS083</codigoPrincipal>
+
+<descripcion>GALLETAS DE MERMELADA</descripcion>
+
+<cantidad>1.000000</cantidad>
+
+<precioUnitario>2.391300</precioUnitario>
+
+<descuento>0.00</descuento>
+
+<precioTotalSinImpuesto>2.39</precioTotalSinImpuesto>
+
+<detallesAdicionales>
+
+<detAdicional nombre="Factor" valor="1"></detAdicional>
+
+<detAdicional nombre="Cantidad" valor="1.00000"></detAdicional>
+
+<detAdicional nombre="Unidad" valor="CAJ"></detAdicional>
+
+</detallesAdicionales>
+
+<impuestos>
+
+<impuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>4</codigoPorcentaje>
+
+<tarifa>15.00</tarifa>
+
+<baseImponible>2.39</baseImponible>
+
+<valor>0.36</valor>
+
+</impuesto>
+
+</impuestos>
+
+</detalle>
+
+<detalle>
+
+<codigoPrincipal>TE149</codigoPrincipal>
+
+<descripcion>MIXTONI</descripcion>
+
+<cantidad>1.000000</cantidad>
+
+<precioUnitario>1.000000</precioUnitario>
+
+<descuento>0.00</descuento>
+
+<precioTotalSinImpuesto>1.00</precioTotalSinImpuesto>
+
+<detallesAdicionales>
+
+<detAdicional nombre="Factor" valor="1"></detAdicional>
+
+<detAdicional nombre="Cantidad" valor="1.00000"></detAdicional>
+
+<detAdicional nombre="Unidad" valor="U"></detAdicional>
+
+</detallesAdicionales>
+
+<impuestos>
+
+<impuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>0</codigoPorcentaje>
+
+<tarifa>0.00</tarifa>
+
+<baseImponible>1.00</baseImponible>
+
+<valor>0.00</valor>
+
+</impuesto>
+
+</impuestos>
+
+</detalle>
+
+<detalle>
+
+<codigoPrincipal>PA005</codigoPrincipal>
+
+<descripcion>INJERTO</descripcion>
+
+<cantidad>3.000000</cantidad>
+
+<precioUnitario>0.220000</precioUnitario>
+
+<descuento>0.00</descuento>
+
+<precioTotalSinImpuesto>0.66</precioTotalSinImpuesto>
+
+<detallesAdicionales>
+
+<detAdicional nombre="Factor" valor="1"></detAdicional>
+
+<detAdicional nombre="Cantidad" valor="3.00000"></detAdicional>
+
+<detAdicional nombre="Unidad" valor="U"></detAdicional>
+
+</detallesAdicionales>
+
+<impuestos>
+
+<impuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>0</codigoPorcentaje>
+
+<tarifa>0.00</tarifa>
+
+<baseImponible>0.66</baseImponible>
+
+<valor>0.00</valor>
+
+</impuesto>
+
+</impuestos>
+
+</detalle>
+
+</detalles>
+
+<infoAdicional>
+
+<campoAdicional nombre="direccionCliente">la kennedy</campoAdicional>
+
+<campoAdicional nombre="telefonoCliente">2240564</campoAdicional>
+
+<campoAdicional nombre="correoCliente">karina@hotmail.com</campoAdicional>
+
+<campoAdicional nombre="codigoVendedor">V001</campoAdicional>
+
+<campoAdicional nombre="nombreVendedor">MARTINEZ LIDA</campoAdicional>
+
+<campoAdicional nombre="DSCTO_VALOR">0.00</campoAdicional>
+
+<campoAdicional nombre="BaseIVA">5.22</campoAdicional>
+
+<campoAdicional nombre="BaseCero">1.66</campoAdicional>
+
+<campoAdicional nombre="BaseNOobjIVA">0.00</campoAdicional>
+
+</infoAdicional>
+
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature916789">
+<ds:SignedInfo Id="Signature-SignedInfo553698">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID540250" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature916789-SignedProperties732905">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Rzs8eIzwY6U41qTxPQZ0pLr+ThY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate128352">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>6p/djfl1LBj/yRksPngvFwzBskE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1023777" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>WY8oP1HdKLVmJQ+/Y5HvQMM8FSg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1038248">
+SQ7zp4VGe4o3x6XyF4nWJqJT+yK26VWkZOwW2xLABoMyN2S0A1dl3DyHY+md3Pnm2ustVHvBbb3m
+AZwBdkFenGb5kHWvmr2UD+DmtgVpe6VKIHkkHZf414gAFrovM30pRBSSWYxKmALpdh4RrMINvv6Z
+YGmiMHziuZIsltPdbn2YUSKpzWuUfADCvVd0pm5iO3Xsy8hiVDizX4naa43DQw2IyKfO6hf1mwqN
+UAePazWjINJ/ZHq/OPrM/lCdoOmdzog0RGh51NXKq2k2TT8CW1SKgbLviCAk4v0XLLzslSt3IKDN
+bSPEMwhE367Cntd30xB/D1EbyQcf9cOzP8nnjQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate128352">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMNDCCChygAwIBAgIEfi2xsDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA0MTIyMDU4NDRaFw0yNDA0MTEyMDU4NDRaMIGcMSUw
+IwYDVQQDDBxKVUxJTyBNSUdVRUwgTU9OVEVORUdSTyBNRU5BMRUwEwYDVQQFEwwxMjA0MjIxNjA4
+MjIxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA1GKotIujL3n6VnlrgiFyhXmo3ANjHJ3hUeOWCzTSHhegkcYIXA4GNmkL
+cB04kn1XunbTe23FaZHz+k98ZyhnFI7DcfDD85tXEDkRK5OzLjUi1EWTgoaAvs+ee8v5VmKHi9Fw
+eX+ocwStPXLTN1Gl9BkjCoMAWIuxFTFLHGFn2TqhQJoFHmhsTPwIFhFLKmRhQgLZe3AeZJ57Pmav
+kAnch7xIw065X1oGqOL3QEMgRfxgUlnwwWJaqzgpv4YRDTCVEDck1r0NAxA1kF0rGiyx2IIva5VM
+kO0VR3R9aADGYSCZlA7UY7drs02QKeZV7ely4JGxlPKsTfGwxRU6pCz5swIDAQABo4IHfTCCB3kw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwJQYDVR0RBB4wHIEaYXV4Y29udGFiaWxpZGFkQGlwYW5tbS5jb20wggEVBgNVHSAEggEM
+MIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQA
+bwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQB
+gqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93
+cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNh
+cyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkwggKV
+MIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQG
+EwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1B
+VVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURB
+RCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIs
+Qz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3Bv
+cnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlz
+dC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBT
+VUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU6yr7IVrqVfK43prI
+txwpFNuX980wKwYDVR0QBCQwIoAPMjAyMjA0MTIyMDU4NDRagQ8yMDI0MDQxMTIwNTg0NFowCwYD
+VR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEE
+DAwKMTcxMjY5MjE4MzAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMBEGCisGAQQBgqZyAyIEAwwBLjAz
+BgorBgEEAYKmcgMHBCUMI1JJT0JBTUJBIE41Ni0zNCBZIEFWLiBDQVJMT1MgUVVJTlRPMBwGCisG
+AQQBgqZyAwIEDgwMSlVMSU8gTUlHVUVMMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwMzM2OTY5
+MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAaBgorBgEEAYKm
+cgMDBAwMCk1PTlRFTkVHUk8wUgYKKwYBBAGCpnIDCgREDEJJTkRVU1RSSUEgUFJPQ0VTQURPUkEg
+REUgQUxJTUVOVE9TIE5BQ0lPTkFMRVMgTU9OVEVORUdSTyBNRU5BIFMuQS4wHQYKKwYBBAGCpnID
+CwQPDA0xNzkyMTI5NzQ1MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wFAYKKwYBBAGCpnIDBAQGDARN
+RU5BMBoGCisGAQQBgqZyAwgEDAwKNTkzMjU5NjQxMjANBgkqhkiG9w0BAQsFAAOCAgEAIc4Dzp93
+hYqIKiLekknIaQPynvMNZGR153e/pExYgx1t/3X9PMG/MBr2LYalREKlLbMMQdNhkNcYXxcmUELI
+3eOTy4P/VeZEjdlOZgC1GpTC9XGC6paHdLszaDdCQpFWHvpNSFe+SMYBVsVNtF3nGPFmzBiUeYYR
+wrKxmUoKc7t2LDW2XCgIbjfZZlbueKK0MxIaIkHcxH4b+XsxnKQB6lZJrEhPFNHNX8Jl+Ks3VeP9
+NdIj8et7JXDTc4LsgLPG0CPxzDz5qL2/EL9lES4VlRxVMays1qnPo75UuUZZVdkItANnLCnN2VqT
+48aToewy3nO7WNkbZ+EbXfjSE/mmLiSU/kWjk/DbCmN8GBHzNQb7Jn6JJ0c3XIR8LLkpsletOj20
+OYbzXwx8X0Jvey9bRtxCsqmBe7jkD2LHdpPkrTvCO4RXquyJRCKpsbJxpsiPWx14tBm1kgWaQONF
+EMdP4SRETI58dIn5oaWTiHBUwbJqAP78aIXfgS1S78NS7Ew/rwcJ9dDi3c9Bi1EuEnfLtw8QPweY
+AXRhtVVk4lmLfkQjxl4oH6VliO1SjGJzQMNoGjenbOuwROIgly+104Yau1NgWnPeLSCCxA3bVZLl
+/e+YaxSz4eoLrEhpnA2cZA42FWUpOWcttwLmmEaP7zJKZeNX4m18rRDz2hCB2RFzV9c=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+1GKotIujL3n6VnlrgiFyhXmo3ANjHJ3hUeOWCzTSHhegkcYIXA4GNmkLcB04kn1XunbTe23FaZHz
++k98ZyhnFI7DcfDD85tXEDkRK5OzLjUi1EWTgoaAvs+ee8v5VmKHi9FweX+ocwStPXLTN1Gl9Bkj
+CoMAWIuxFTFLHGFn2TqhQJoFHmhsTPwIFhFLKmRhQgLZe3AeZJ57PmavkAnch7xIw065X1oGqOL3
+QEMgRfxgUlnwwWJaqzgpv4YRDTCVEDck1r0NAxA1kF0rGiyx2IIva5VMkO0VR3R9aADGYSCZlA7U
+Y7drs02QKeZV7ely4JGxlPKsTfGwxRU6pCz5sw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature916789-Object987771"><etsi:QualifyingProperties Target="#Signature916789"><etsi:SignedProperties Id="Signature916789-SignedProperties732905"><etsi:SignedSignatureProperties><etsi:SigningTime>2024-04-02T17:49:53-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>hj1aeqvrySE/09Emcj/7p9QmWQI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2116923824</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1023777"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

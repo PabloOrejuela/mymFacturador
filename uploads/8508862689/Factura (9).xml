@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0304202401179251243300120010030176796190000000010</numeroAutorizacion>
+<fechaAutorizacion>2024-04-03T13:38:51-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+   <infoTributaria>
+      <ambiente>2</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>DELIVERY HERO DH E-COMMERCE ECUADOR S.A.S.</razonSocial>
+      <nombreComercial>DELIVERY HERO DH E-COMMERCE ECUADOR S.A.S.</nombreComercial>
+      <ruc>1792512433001</ruc>
+      <claveAcceso>0304202401179251243300120010030176796190000000010</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>003</ptoEmi>
+      <secuencial>017679619</secuencial>
+      <dirMatriz>Catalina aldas y Portugal, Edificio Recoleta piso 6. Oficina 65</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>03/04/2024</fechaEmision>
+      <dirEstablecimiento>Catalina aldas y Portugal, Edificio Recoleta piso 6. Oficina 65</dirEstablecimiento>
+      <contribuyenteEspecial>051</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+      <razonSocialComprador>Karina Orozco </razonSocialComprador>
+      <identificacionComprador>1713654315</identificacionComprador>
+      <totalSinImpuestos>0.26</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>4</codigoPorcentaje>
+            <baseImponible>0.26</baseImponible>
+            <tarifa>15.00</tarifa>
+            <valor>0.04</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>0.30</importeTotal>
+      <moneda>USD</moneda>
+      <pagos>
+         <pago>
+            <formaPago>20</formaPago>
+            <total>0.30</total>
+            <plazo>30</plazo>
+            <unidadTiempo>DIAS</unidadTiempo>
+         </pago>
+      </pagos>
+      <valorRetRenta>0.04</valorRetRenta>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>SERVICE-FEE-EC</codigoPrincipal>
+         <descripcion>Tarifa de servicio</descripcion>
+         <unidadMedida>UND</unidadMedida>
+         <cantidad>1.00</cantidad>
+         <precioUnitario>0.26</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>0.26</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>4</codigoPorcentaje>
+               <tarifa>15</tarifa>
+               <baseImponible>0.26</baseImponible>
+               <valor>0.04</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+   <infoAdicional>
+      <campoAdicional nombre="Email">mikaelaarcentales0@gmail.com</campoAdicional>
+   </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature200179">
+<ds:SignedInfo Id="Signature-SignedInfo344809">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID688280" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature200179-SignedProperties695861">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>wBGqX/p3LgSS9KXyOiZ73hmW88s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1851562">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>rpQXO3JVsi0pZgPC5OkGxE1Exhw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-211617" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hhRr9h+sMzB4HRv2uoZQDq/TYgY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1035275">
+BeqATjQ9xilsrKzd0nw9kiGgkGEqd7Mz+3B1+23SwcklHINKJDpiigGKKadae8LkhTSnbXdPhJhX
+BRHw85JnBhik+N75WjUYOTr8i+pHfSxHCisrs8i744t2/8GbIi3IOTvKLDmdFkYI9df+5OyHlGPg
+o0Hpo9jOzjCBHLFliZQInhTFPkGFW+kEOdFMbr4slktQIYCio+QI/irdrVFn4ZcO4S8TJ7AzH6vv
+mHrvReppdutNevnOFsODoB1yw7LDBDnPe8R39AC1Kk7/fyqBgxPIayUwoB8WWequGTmvAbr9g0x3
+taC53rATw4gofwpiD1BGjquqZTDD8Pxg8DhNhA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1851562">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIINDCCBhygAwIBAgIQA4fOtxwC7FGXGnZAesHKsDANBgkqhkiG9w0BAQsFADCBtTELMAkGA1UE
+BhMCRUMxGDAWBgNVBAoMD0RhdGlsbWVkaWEgUy5BLjEwMC4GA1UECwwnRW50aWRhZCBkZSBjZXJ0
+aWZpY2FjaW9uIGRlIGluZm9ybWFjaW9uMQ8wDQYDVQQIDAZHdWF5YXMxNTAzBgNVBAMMLERhdGls
+IEF1dG9yaWRhZCBkZSBDZXJ0aWZpY2FjaW9uIFN1Ym9yZGluYWRhMRIwEAYDVQQHDAlHdWF5YXF1
+aWwwHhcNMjMwMTE3MTU0OTI4WhcNMjUwMTE2MTY0OTI4WjCBkzElMCMGA1UEAwwcWW9oYW4gU3Rp
+dmVuIENhZGVuYSBCZXJtdWRlejEqMCgGCSqGSIb3DQEJARYbeW9oYW4uY2FkZW5hQHBlZGlkb3N5
+YS5jb20gMQ4wDAYDVQQKDAVEYXRpbDEhMB8GA1UECwwYRW50aWRhZCBkZSBDZXJ0aWZpY2FjaW9u
+MQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJyBMysQiS9G7X+I
+8d3Po/ELFyRJdvJ56RQBxcaH2soRXueLIDNrY4HyEUQFSojryR8OgjDgy9cAkt+vFBEm4qo6ilFk
+Zj8oYZjy2PyJk+1+q9N9jCTg6XKeTCc12e1OHMH41f07q3LfGpveoShL/xX5RWik3lX0IEpTzMUF
+9+EUh2fRltHDmwPsZygNx8mlnj1pVMEZ56EuUwf3/hY+83YNLL3VqolVSUaS8B8FIEydg7etnvjs
+pnGiwFhUFFD2z+NVpmInSZijnTCpmt14qPv66T3gWTPT2GUSC9t57XaCuMh9nNcQ9D3dqJ13rgu2
+wOPb25S8yaHhhyK/AZimK5cCAwEAAaOCA14wggNaMCYGA1UdEQQfMB2BG3lvaGFuLmNhZGVuYUBw
+ZWRpZG9zeWEuY29tIDAJBgNVHRMEAjAAMB8GA1UdIwQYMBaAFOVm+bJ4dhtq9M/LeFDFBR86neB3
+MB0GA1UdDgQWBBS6O/jh/x9BQ1MIm+pAsXTvyOqE6zCBkAYDVR0gBIGIMIGFMIGCBgsrBgEEAYOb
+IwIFATBzMHEGCCsGAQUFBwIBFmVodHRwczovL2RhdGlsLW9zLXB1YmxpYy5zMy51cy13ZXN0LTIu
+YW1hem9uYXdzLmNvbS85OGUyMWRiZC1iNmVjLTRlODMtYjllOS1kNGFlMTJiNGQ5NjcvRGF0aWxf
+Q1BTLnBkZjBvBgNVHR8EaDBmMGSgYqBghl5odHRwOi8vZGF0aWwtc3ViY2EtY3JsLnMzLnVzLXdl
+c3QtMi5hbWF6b25hd3MuY29tL2NybC9hMDc4OGVlMC03OGJiLTQwNmItYjM4YS0zMmUzNmFhNGRi
+ZGIuY3JsMEcGCCsGAQUFBwEBBDswOTA3BggrBgEFBQcwAYYraHR0cDovL29jc3AuYWNtLXBjYS51
+cy13ZXN0LTIuYW1hem9uYXdzLmNvbTAOBgNVHQ8BAf8EBAMCBsAwGgYKKwYBBAGDmyMDAQQMDAox
+NzYwODIzMDYwMBwGCisGAQQBg5sjAwIEDgwMWW9oYW4gU3RpdmVuMBYGCisGAQQBg5sjAwMECAwG
+Q2FkZW5hMBgGCisGAQQBg5sjAwQECgwIQmVybXVkZXowHwYKKwYBBAGDmyMDBQQRDA9HZXJlbnRl
+IEdlbmVyYWwwOAYKKwYBBAGDmyMDBwQqDChDYXJsb3MgTW9udHVmYXIgRTEzLTE2IHkgRmVybmFu
+ZG8gQXlhcnphMBoGCisGAQQBg5sjAwgEDAwKMDk5OTk5OTk5OTAVBgorBgEEAYObIwMJBAcMBVF1
+aXRvMDgGCisGAQQBg5sjAwoEKgwoRGVsaXZlcnkgSGVybyBEaCBFLUNvbW1lcmNlIEVjdWFkb3Ig
+Uy5BLjAdBgorBgEEAYObIwMLBA8MDTE3OTI1MTI0MzMwMDEwEgYKKwYBBAGDmyMDDAQEDAJFQzAh
+BgorBgEEAYObIwMgBBMMETAwMS0wMDEtMDAwNDU3MTg5MA0GCSqGSIb3DQEBCwUAA4ICAQBnmStW
+j6sb9d2wAEAHbiFwvG8SEZ5y9N6NE2nlVs1QV1VUAuozBszfjB/7gaLhTb90gJKcRmXaeqC147YB
+6aBTg7Gz+wLp3D3+B6rqD6Q8kTqLSRaVGVLh7rar4bweCp3mH/15nzcfi4ShVZU8mdIHZeGUH8MX
+MYWvtliS571UGjzNaNDSclx6GGUe1uok9sRYWsAvHHrLU5Bu7UBUMfqrDA/BUlpnxIxKGEzAHPUf
+USBRZdCgIWMQvg2lFaqbKcaek+WboIWn/IITF581VTToYN9emLvR93IqSznxuj0iruLI3+oCHUmw
+4WaatmAsvGkhwr+yJfXxDHH0jonwxVQt/I5TGf2BQuIhDrGaDaUSC1MkLHIvfmLNHah5059vKKtJ
+pW3GCYHpwvdpe+e+R8+z3GbLSCoaWbYT48+EBGLLdXi8SaxNq3xUndzWaghvxX8gfMk4ii/s2I0o
+5Lj0V9+GjO1jE0IUsqzBeZNgMBiJGEsk8XyZs5V1xkxxNGQXo0yThYpP8EJXnTZ8pSw2YJ6aqgLL
+19btWKs2AbalYu2mQLrt3O+qqZGhoPKDcZzPF3UVfyXJn6cp+flEyDVMGmkfGpRQMAgzM6XNP+3d
+WuJPItbP4wotfpuHJV0e2r4Izjwv6PE6jAIW2gVv9negQQhiy4ZImIVnHu2CEPzpNjKjQg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nIEzKxCJL0btf4jx3c+j8QsXJEl28nnpFAHFxofayhFe54sgM2tjgfIRRAVKiOvJHw6CMODL1wCS
+368UESbiqjqKUWRmPyhhmPLY/ImT7X6r032MJODpcp5MJzXZ7U4cwfjV/Turct8am96hKEv/FflF
+aKTeVfQgSlPMxQX34RSHZ9GW0cObA+xnKA3HyaWePWlUwRnnoS5TB/f+Fj7zdg0svdWqiVVJRpLw
+HwUgTJ2Dt62e+OymcaLAWFQUUPbP41WmYidJmKOdMKma3Xio+/rpPeBZM9PYZRIL23ntdoK4yH2c
+1xD0Pd2onXeuC7bA49vblLzJoeGHIr8BmKYrlw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature200179-Object944827"><etsi:QualifyingProperties Target="#Signature200179"><etsi:SignedProperties Id="Signature200179-SignedProperties695861"><etsi:SignedSignatureProperties><etsi:SigningTime>2024-04-03T18:38:47+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Q4n4bS0809BKviHE7Fww710nHj0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=Guayaquil,CN=Datil Autoridad de Certificacion Subordinada,ST=Guayas,OU=Entidad de certificacion de informacion,O=Datilmedia S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>4692836747058155813245414395412073136</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-211617"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

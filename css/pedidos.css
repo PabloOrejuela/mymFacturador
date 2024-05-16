@@ -1,0 +1,72 @@
+.thumbnail img{
+    height: 200px;
+    width: 100%;
+    
+}
+
+.thumbnail p{
+    min-height: 80px;
+}
+
+.div_nuevo{
+	text-align: right;
+}
+
+.td_numero{
+    text-align: right;
+}
+
+.modal-header{
+	background-color: #009AA5;
+	color: white;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+    color: white;
+    text-decoration: none;
+    background-color: #0A49AE;
+}
+
+.table_scroller{
+ 
+    height: 100px;
+    overflow:scroll;
+}
+
+.th_cabecera{
+    background-color: #009AA5;
+    color: white;
+    text-align: center;
+}
+
+input[type=number]{
+    text-align: right;
+}
+
+textarea {
+    resize: none;
+}
+
+.badge{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.td_boton button{
+    width: 100%;
+}
+
+.td_seleccionado{
+    background-color: #0c5258;
+    color: white;
+    text-align: center;
+}
+
+.radio_td input{
+    margin-left: 20px;
+
+}

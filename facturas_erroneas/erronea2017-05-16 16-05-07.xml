@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0601201701200100100038264817901551020</numeroAutorizacion>
+<fechaAutorizacion>2017-01-06T12:32:15-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+  <ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CASTILLO HERMANOS SA</razonSocial><nombreComercial>CASTILLO HNOS S.A.</nombreComercial><ruc>1790155102001</ruc><claveAcceso>0601201701179015510200120010010003826487394665719</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000382648</secuencial><dirMatriz>Panam. Norte 13135 y De los Cerezos</dirMatriz></infoTributaria><infoFactura>
+  <fechaEmision>06/01/2017</fechaEmision><dirEstablecimiento>Pana. Norte 13135 y De los Cerezos</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>TORRES UQUILLAS CARLOS FERNANDO</razonSocialComprador><identificacionComprador>1712588829001</identificacionComprador><direccionComprador>AV. QUITO A9 Y PASAJE SIN NOMBRE SECTOR CARAPUNGO</direccionComprador><totalSinImpuestos>38.88</totalSinImpuestos><totalDescuento>10.37</totalDescuento><totalConImpuestos>
+    <totalImpuesto>
+      <codigo>2</codigo><codigoPorcentaje>3</codigoPorcentaje><baseImponible>38.88</baseImponible><valor>5.44</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>44.32</importeTotal><moneda>DOLAR</moneda><pagos>
+    <pago>
+      <formaPago>01</formaPago><total>44.32</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles>
+ <detalle>
+  <codigoPrincipal>622000</codigoPrincipal><descripcion><![CDATA[PERNO HEX HIERRO GR.2 UNC GALVAN. 3/8X4"]]></descripcion><cantidad>80.000</cantidad><precioUnitario>0.36000</precioUnitario><descuento>6.06</descuento><precioTotalSinImpuesto>22.74</precioTotalSinImpuesto><impuestos>
+   <impuesto>
+    <codigo>2</codigo><codigoPorcentaje>3</codigoPorcentaje><tarifa>14.00</tarifa><baseImponible>22.74</baseImponible><valor>3.18</valor></impuesto></impuestos></detalle><detalle>
+  <codigoPrincipal>306600</codigoPrincipal><descripcion><![CDATA[PERNO C.REDONDA HIERRO GR.2 NEGRO UNC 3/8X3.1/2"]]></descripcion><cantidad>50.000</cantidad><precioUnitario>0.26000</precioUnitario><descuento>2.74</descuento><precioTotalSinImpuesto>10.26</precioTotalSinImpuesto><impuestos>
+   <impuesto>
+    <codigo>2</codigo><codigoPorcentaje>3</codigoPorcentaje><tarifa>14.00</tarifa><baseImponible>10.26</baseImponible><valor>1.44</valor></impuesto></impuestos></detalle><detalle>
+  <codigoPrincipal>26500</codigoPrincipal><descripcion><![CDATA[ARANDELA PLANA SAE GALVAN. USS 3/8"]]></descripcion><cantidad>1.300</cantidad><precioUnitario>2.65000</precioUnitario><descuento>0.73</descuento><precioTotalSinImpuesto>2.72</precioTotalSinImpuesto><impuestos>
+   <impuesto>
+    <codigo>2</codigo><codigoPorcentaje>3</codigoPorcentaje><tarifa>14.00</tarifa><baseImponible>2.72</baseImponible><valor>0.38</valor></impuesto></impuestos></detalle><detalle>
+  <codigoPrincipal>646200</codigoPrincipal><descripcion><![CDATA[TUERCA HEX. HIERRO GR.2 UNC GALVAN. 3/8"]]></descripcion><cantidad>80.000</cantidad><precioUnitario>0.05000</precioUnitario><descuento>0.84</descuento><precioTotalSinImpuesto>3.16</precioTotalSinImpuesto><impuestos>
+   <impuesto>
+    <codigo>2</codigo><codigoPorcentaje>3</codigoPorcentaje><tarifa>14.00</tarifa><baseImponible>3.16</baseImponible><valor>0.44</valor></impuesto></impuestos></detalle></detalles><infoAdicional>
+  <campoAdicional nombre="Observacion">...hacemos más facíl su trabjo</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="SignatureN0"><ds:SignedInfo Id="Signature-SignedInfo379688"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="SignedPropertiesID429911" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignatureN0-SignedPropertiesN0"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>99kmRFm7RlCbGa3WqO0UVnIPvNs=</ds:DigestValue></ds:Reference><ds:Reference URI="#CertificateN0"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>sFAZpZrihJRWTFnwNp6k2Ly8kpE=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-N0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>BOuGhBocZZzuZI28Q7bidXcv5N8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValueN0">j7UrXgz1UmO32tWXdZ4nHIEKrlpYGLZNNIxLqmBFUkScVRBeu0C4Q97CD7kxzvVZ
+ed9cGUY8JWHUkBKnoYSIr9NxE12O2o+Is7jPdmnp6Nv5qAcnSMOibor4E6pHiZPN
+n2aFLbZ/zeqRlX28u1q2HtSaEgqu9KE1ALGvpHs4zMwfZu0SEdpwoiW6PqtVxPGJ
+t97pQ31vG1tNXY0B/VYu9dgBbAhE0QrWk6KOZh6u57mksEhS5et1I+rDZ/zxLidS
+kkJxvckBZlxt3r3Vu/Z87HWtzzKpaK0PazybUG7i6DBg+4whi+5HYnj5dHFesg1W
+SMmJ6QMmH0Tzxo9hL2adaQ==</ds:SignatureValue><ds:KeyInfo Id="CertificateN0"><ds:X509Data><ds:X509Certificate>MIIKHjCCCAagAwIBAgIETkbUbjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMC
+RUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsT
+LkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0Ux
+DjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBF
+Q1VBRE9SMB4XDTE2MDcyMTIwMTYzOFoXDTE4MDcyMTIwNDYzOFowgbYxCzAJBgNV
+BAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYD
+VQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJ
+QkNFMQ4wDAYDVQQHEwVRVUlUTzE6MBEGA1UEBRMKMDAwMDA3OTMzOTAlBgNVBAMT
+Hk1BVVJJQ0lPIEpBVklFUiBDQVNUSUxMTyBOVU5FWjCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAMri5LxNRXgMjkDpKQatLVPI9dQ57C/tyn6IRalDDPnd
+wqaAX6ETrmd++haMewRQwWu3mCUlGVAnMtCsZdCfVhP1lcKk9pCod+e6QODFyeeb
+2J7CRucY3Qgi2qNygPBiEOVlvSBGATE4Pu92iwKTrj/6erOWaL5+lKnnW2tI+9GM
+2fT6jYEvk0zOAGoZNN3dc3krqmRuMqHgALlnRkEAc/ypgYGFocYJXNFOrKANhidY
+ITocjyWjh1cUOn3ODRGetcoyUnHuXBc4DT8GLto+ZYG+2QykqOpI4wmP3irxVgwk
+TiSqHUY3pPpps35srh+OcPnii68F69Y95MyddaCXVAcCAwEAAaOCBUUwggVBMAsG
+A1UdDwQEAwIHgDBnBgNVHSAEYDBeMFwGCysGAQQBgqg7AgIBME0wSwYIKwYBBQUH
+AgEWP2h0dHA6Ly93d3cuZWNpLmJjZS5lYy9wb2xpdGljYS1jZXJ0aWZpY2Fkby9w
+ZXJzb25hLWp1cmlkaWNhLnBkZjCBkQYIKwYBBQUHAQEEgYQwgYEwPgYIKwYBBQUH
+MAGGMmh0dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1
+cy9vY3NwMD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwJAYKKwYBBAGCqDsDCgQWExRDQVNUSUxM
+TyBIRVJNQU5PUyBTQTAdBgorBgEEAYKoOwMLBA8TDTE3OTAxNTUxMDIwMDEwGgYK
+KwYBBAGCqDsDAQQMEwoxNzA2ODkwOTc1MB8GCisGAQQBgqg7AwIEERMPTUFVUklD
+SU8gSkFWSUVSMBgGCisGAQQBgqg7AwMEChMIQ0FTVElMTE8wFQYKKwYBBAGCqDsD
+BAQHEwVOVU5FWjAfBgorBgEEAYKoOwMFBBETD0dFUkVOVEUgR0VORVJBTDA3Bgor
+BgEEAYKoOwMHBCkTJ1BBTkFNRVJJQ0FOQSBOT1JURSBLTSA1IDEyIE5VTUVSTyAx
+MzEzNTAZBgorBgEEAYKoOwMIBAsTCTAyMjU3NTc4NTAVBgorBgEEAYKoOwMJBAcT
+BVF1aXRvMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAaBgorBgEEAYKoOwMyBAwT
+CjE3MDAwMzc2MDcwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCkG
+A1UdEQQiMCCBHm1jYXN0aWxsb0BjYXN0aWxsb2hlcm1hbm9zLmNvbTCCAd8GA1Ud
+HwSCAdYwggHSMIIBzqCCAcqgggHGhoHVbGRhcDovL2JjZXFsZGFwc3VicDEuYmNl
+LmVjL2NuPUNSTDM0Myxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVD
+VUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIw
+REUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwl
+MjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRo
+dHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIu
+Y3JspIG1MIGyMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBE
+RUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFD
+IEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxDzANBgNVBAMTBkNSTDM0MzArBgNV
+HRAEJDAigA8yMDE2MDcyMTIwMTYzOFqBDzIwMTgwNzIxMjA0NjM4WjAfBgNVHSME
+GDAWgBQY+fD75jIcmWY5KsqLsml9SSe/zjAdBgNVHQ4EFgQUUkPyqnxQTZKahsgQ
+h/b184PgBQ0wCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIEsDAN
+BgkqhkiG9w0BAQsFAAOCAgEADC+wbww5oOceoWrQ1+YKwgl83KSVsPF7QILeYwj+
+cnD81PRnSZXG/5Agtpdc3u6iBUMrenzy9aqHQeBg+8QWH9tRjOS7CzCHgoLLvNp5
+GoHral/FBjhVr8PKvC0ZZ0iWOXG31BMXK7dWOOz4xFXoIFfCsBtIxVyPDXyDGZK1
+/lOkRbupzm+3EvQuHqe/vJVztIDbJ4HSJi49Sirbq/dz33WCbJkX8C/SMUmgbFPd
+xHN6bkgQX2U0TMKZweySYbHMDNLU1ALkDRpP9sx76az5xPv5KooySHHkfn0hfrzD
+eyR0xSqY1kArCwx1MYppioWTYTqGEL5rsYRShUBSpi4UIF8uFmwtTQ2TYFigatI2
+7a5yZoxCcRvnTuehbyFuRWL55rZ7T+b8LzbY/4jBKphAenOoZwC56+57mA8JLfZ8
+JIHgJQzeJVUUZ2hvbdB8grbTt3312IS9H+HtxRuBDm7QOwWylr8O4xwWS0uoZNfq
+BUU53S8mKKB6TP06BXN+jrul98zWpkmtuGuvpyNlxTchlxYYgwC7421SN8pDc1i7
+OgTh0uILZ4i5E95mnKy3f7Rmi2yZjAKFT0jRATT9ZT87KJziVRVFOjrI3LovslEC
+50+arRViu1zp7aZiexlm3MJa7IHLLm/d7yt9drrJavbKbWUXhIhqpd8aVtiI40W+
+FgQ=</ds:X509Certificate></ds:X509Data><ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+yuLkvE1FeAyOQOkpBq0tU8j11DnsL+3KfohFqUMM+d3CpoBfoROuZ376Fox7BFDB
+a7eYJSUZUCcy0Kxl0J9WE/WVwqT2kKh357pA4MXJ55vYnsJG5xjdCCLao3KA8GIQ
+5WW9IEYBMTg+73aLApOuP/p6s5Zovn6Uqedba0j70YzZ9PqNgS+TTM4Aahk03d1z
+eSuqZG4yoeAAuWdGQQBz/KmBgYWhxglc0U6soA2GJ1ghOhyPJaOHVxQ6fc4NEZ61
+yjJSce5cFzgNPwYu2j5lgb7ZDKSo6kjjCY/eKvFWDCROJKodRjek+mmzfmyuH45w
++eKLrwXr1j3kzJ11oJdUBw==
+</ds:Modulus>
+<ds:Exponent>
+AQAB
+</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue></ds:KeyInfo><ds:Object Id="SignatureN0-ObjectN0"><etsi:QualifyingProperties Target="#SignatureN0"><etsi:SignedProperties Id="SignatureN0-SignedPropertiesN0"><etsi:SignedSignatureProperties><etsi:SigningTime>2017-01-06T12:23:33</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>PaS7ZlPd5pXiPusVnOedahYbKt4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1313264750</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-N0"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

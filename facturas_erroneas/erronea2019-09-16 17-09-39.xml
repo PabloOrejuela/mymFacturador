@@ -1,0 +1,468 @@
+
+
+<html lang="es">
+	<head>
+		<title>SRI en L&iacute;nea - Login</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<meta name="author" content="Servicio de Rentas Internas ">
+		<meta name="keywords" content="SRI, declaraciones">
+		<meta name="description" content="
+
+		 * ================================================================================
+		 * Servicio de Rentas Internas 
+		 * @site http://www.sri.gob.ec
+		 * Copyright (c) 2017, Servicio de Rentas Internas. Todos los derechos reservados.
+		 * ================================================================================
+		">
+
+		<link rel="icon" type="image/gif" href="/recursos-tpi/img/favicon.gif"/>
+		<link rel="SHORTCUT ICON" href="/recursos-tpi/img/favicon.ico" />
+
+		<link href="/recursos-tpi/css/formularios.css" rel="stylesheet" type="text/css" />
+		<link href="/recursos-tpi/css/tuportal.css" rel="stylesheet" type="text/css" />
+		<link href="/recursos-tpi/css/preguntas.css" rel="stylesheet" type="text/css" />
+		<style>.sri-overlay{display:none;opacity:1;position:fixed;width:90%;top:10%;z-index:1002;text-align:center;vertical-align:middle;margin-left:5%;margin-right:5%}@media screen and (min-width:576px){.sri-overlay{top:40%}}.sri-container{margin-right:auto;margin-left:auto;padding-right:15px;padding-left:15px;width:100%}@media (min-width:576px){.sri-container{max-width:540px}}@media (min-width:768px){.sri-container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.sri-container{max-width:1140px}}.sri-col-sm,.sri-col-sm-1,.sri-col-sm-10,.sri-col-sm-11,.sri-col-sm-12,.sri-col-sm-2,.sri-col-sm-3,.sri-col-sm-4,.sri-col-sm-5,.sri-col-sm-6,.sri-col-sm-7,.sri-col-sm-8,.sri-col-sm-9{position:relative;width:100%;min-height:1px;padding-right:15px;padding-left:15px}.sri-row{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}@media (min-width:576px){.sri-col-sm{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.sri-col-sm-auto{-ms-flex:0 0 auto;flex:0 0 auto;width:auto;max-width:none}.sri-col-sm-1{-ms-flex:0 0 8.333333%;flex:0 0 8.333333%;max-width:8.333333%}.sri-col-sm-2{-ms-flex:0 0 16.666667%;flex:0 0 16.666667%;max-width:16.666667%}.sri-col-sm-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.sri-col-sm-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.sri-col-sm-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.sri-col-sm-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.sri-col-sm-7{-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}.sri-col-sm-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.sri-col-sm-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.sri-col-sm-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}.sri-col-sm-11{-ms-flex:0 0 91.666667%;flex:0 0 91.666667%;max-width:91.666667%}.sri-col-sm-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.order-sm-1{-ms-flex-order:1;order:1}.order-sm-2{-ms-flex-order:2;order:2}.order-sm-3{-ms-flex-order:3;order:3}.order-sm-4{-ms-flex-order:4;order:4}.order-sm-5{-ms-flex-order:5;order:5}.order-sm-6{-ms-flex-order:6;order:6}.order-sm-7{-ms-flex-order:7;order:7}.order-sm-8{-ms-flex-order:8;order:8}.order-sm-9{-ms-flex-order:9;order:9}.order-sm-10{-ms-flex-order:10;order:10}.order-sm-11{-ms-flex-order:11;order:11}.order-sm-12{-ms-flex-order:12;order:12}}.sri-card{position:relative;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;min-width:0;word-wrap:break-word;background-color:#fff;background-clip:border-box;border:1px solid rgba(0,0,0,.125);border-radius:.25rem}.logo-cargando{display:none}.disablingDiv{display:none;z-index:1001;position:fixed;top:0;left:0;width:100%;height:100%;background-color:#000;opacity:.2;filter:alpha(opacity=00)}
+ 		</style> 
+ 		<link href="/recursos-tpi/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+		<link href="/recursos-tpi/css/animate.min.css" rel="stylesheet" type="text/css" />
+        <link href="/recursos-tpi/css/sri-imagen-banner.css" rel="stylesheet" type="text/css" />
+		
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+		
+		<link rel="stylesheet" type="text/css" href="/recursos-tpi/js/jquery/jquery_ui/jquery-ui.css">
+		<script type="text/javascript" src="/recursos-tpi/js/jquery/js/jquery-1.12.4.min.js" ></script>
+		<script type="text/javascript" src="/recursos-tpi/js/jquery/jquery_ui/jquery-ui.min.js" ></script>
+		
+		<style>
+		.ui-dialog {
+    z-index: 100;
+}
+</style>		
+
+		<!-- Codigo de google analytics -->
+		<script type="text/javascript">
+  			var _gaq = _gaq || [];
+		  	_gaq.push(['_setAccount', 'UA-17155653-5']);
+		  	_gaq.push(['_trackPageview']);
+		
+		  	(function() {
+		    	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  	})();
+		</script>
+		<!-- Fin codigo de google analytics -->
+
+		<script type="text/javascript">
+    		var $dlgDeuda = null;
+    		var url = null;
+
+    		function navegarDestino(idTitularHtml,ciAdicionalHtml){  
+        		var idTitularElem = document.getElementById(idTitularHtml);
+		        var ciAdicionalElem = document.getElementById(ciAdicionalHtml);
+		
+		        if(url!=null){
+		            document.location.href=url;
+		        }else{
+		            
+		            url='https://srienlinea.sri.gob.ec/tuportal-internet'+"/menusFavoritos.jspa?redireccion=23&idGrupo=82";
+		            document.location.href=url;
+		        }   
+		    }
+		
+		    function abrirVentanaNueva(nomarch) {
+		        var miurl=nomarch;
+		        vn = window.open(miurl,"nuevaventana","width=650,height=500,scrollbars=yes,resizable=yes");
+		        vn.focus();
+		   	}
+		   
+		   	function abrirVentanaNueva1(nomarch) {
+		       	var miurl=nomarch;
+		       	vn = window.open(miurl,"nuevaventana","width=1250,height=1024,scrollbars=yes,resizable=yes");
+		       	vn.focus();
+		   	}
+		
+		    //Navega a la recuperacion de clave
+		   	function navegarRecuperar(){
+		    	var idTitularElem = document.getElementById('userPri');         
+		       	var ciAdicionalElem = document.getElementById('user');      
+		       	var emptyString = /^\s*$/;
+		       	if(emptyString.test(idTitularElem.value)){
+		        	alert('ADVERTENCIA: Ingrese la identificacion del titular');
+		       	}else{          
+		        	var checked_op_radio = $('input:radio[name=checkGcl]:checked').val();       
+		           	if(checked_op_radio==undefined){
+		            	alert('Por favor elija un elemento para recuperar la clave!');
+		           	}else{
+		            	if(checked_op_radio==1){
+		                   window.location.href='https://srienlinea.sri.gob.ec/tuportal-internet/administracion/opcionesRecuperacion.jspa?idP='+idTitularElem.value;                        
+		               }
+		               if(checked_op_radio==2){
+		                   window.location.href='https://srienlinea.sri.gob.ec/tuportal-internet/administracion/obtenerPreguntas.jspa?idP='+idTitularElem.value +'&ciA='+ciAdicionalElem.value; 
+		               }
+		           	}
+		       	}
+		   	}
+		
+		   	function enviarBuscar() {
+		    	newURL = _Ambiente.urlBase+"/search/?query=" + encodeURIComponent(document.buscar._48_INSTANCE_Gp6m_iframe_query.value).replace(/%20/g," ") + "&queryTimeout=3000&index=Default";
+		       	document.buscar._48_INSTANCE_Gp6m_iframe_ref.value = newURL;
+		       	document.buscar._48_INSTANCE_Gp6m_iframe_query.value = encodeURIComponent(document.buscar._48_INSTANCE_Gp6m_iframe_query.value).replace(/%20/g," ");
+		       	document.buscar.submit();
+		   	}
+
+		   	$(function () {
+			    $("#dialog").dialog({
+			        autoOpen: false,
+			        title: 'Recuperar Clave',
+			        position: { my: "center", at: "center", of: window },
+			            resizable: true,
+			            height: 'auto',     
+			        width: 500
+			    });
+			    $('#dialog').html("<p style='font-style: italic;'>Estimado contribuyente, elija una forma para recuperar su clave:</p><p><table class='tb_preg'><tr class='alt_class'><td><input type='radio' name='checkGcl' value='1' checked='checked' />Mediante correo electr&oacute;nico</td></tr><tr class='alt_class'><td><input type='radio' name='checkGcl' value='2' />Mediante cuestionario</td></tr></table></p><input type='button' value='Continuar' class='botonMediano' onclick='navegarRecuperar();'/><br/><br/><p style='display: block; text-align: left;font-size:8pt;'><u>*Recuerde que usted tiene un l&iacute;mite de 5 intentos para recuperar la clave.</u></p><br/>");
+			    $("#opener").click(function () {
+			    	var emptyString = /^\s*$/;
+			            if(emptyString.test($('#userPri').val())){
+			                alert("ADVERTENCIA: Ingrese la identificacion del titular");
+			            }else{      
+			      //  $("#dialog").dialog('open');
+						window.location.href='https://srienlinea.sri.gob.ec/tuportal-internet/administracion/opcionesRecuperacion.jspa?idP='+$('#userPri').val();  
+			        }
+			    });
+
+			    $('#opener').keypress(function (e) {
+		    	 	var key = e.which;
+		    	 	
+		    	 	if(key == 13 || key == 32)  // the enter key code
+		    	  	{	
+						var emptyString = /^\s*$/;
+			            if(emptyString.test($('#userPri').val())){
+			                alert("ADVERTENCIA: Ingrese la identificacion del titular");
+			            }else{      
+			        		$("#dialog").dialog('open');
+			            }	
+			        }
+		    	});   
+			});
+			
+		   	jQuery(document).ready(function(){
+		    	jQuery('input[id=searchInput]').focus(function() {
+		        	if( this.value == this.defaultValue ) {
+		            	this.value = "";
+		           	}
+	        	}).blur(function() {
+	            	if( !this.value.length ) {
+	                	this.value = this.defaultValue;
+	            	}
+	        	});
+	    	});   
+
+			function soloNumerosLetras(e){
+				var key = window.Event ? e.which : e.keyCode;
+				return ((key >= 48 && key <= 57) || (key >= 65 && key <= 90) || (key >= 97 && key <= 122)  || (key == 8) || (e.keyCode == 9));
+			}
+		    
+		</script>
+	</head>
+	<body class="fondo-body">
+		<script language='javascript'>
+_Ambiente = {
+dominio:'sri.gob.ec',
+urlBase:'http://www.sri.gob.ec',
+protocolo:'http',
+nombreServidor:'www'
+};
+</script>
+		
+		<!-- Navegadores No Soportados -->
+
+<div id="noSoportado" class="sri-overlay" style="display: none">
+  <div class="sri-container" >
+    <div class="sri-row">
+      <div class="sri-col-sm-1"></div>
+      <div class="sri-col-sm-10">
+        <div class="card" style="opacity: 1;">
+          <div class="sri-row">
+            <div class="sri-col-sm-12">
+              <h1>Validación de navegadores</h1>
+            </div>
+          </div>
+          <div class="sri-row">
+            <div class="sri-col-sm-12">
+              <p class="sri-bold">La versión de su navegador no es soportada en esta página. Descargue una
+                versión actualizada.</p>
+            </div>
+            <div class="sri-col-sm-2"></div>
+            <div class="sri-col-sm-2">
+              <div class="espaciado-entre-iconos">
+                <img class="logo-navegador espaciado-entre-iconos"
+                     src="/recursos-tpi/img/sri-en-linea/navegadores/chrome.png"
+                     alt="Descargar Chrome">
+                <p class="sri-bold"><a id="linkChrome" target="_blank"
+                                       href="https://www.google.es/chrome/browser/">Chrome</a></p>
+              </div>
+            </div>
+            <div class="sri-col-sm-2">
+              <div class="espaciado-entre-iconos">
+                <img class="logo-navegador espaciado-entre-iconos"
+                     src="/recursos-tpi/img/sri-en-linea/navegadores/firefox.png"
+                     alt="Descargar Firefox">
+                <p class="sri-bold"><a id="linkFirefox" target="_blank"
+                                       href="https://www.mozilla.org/es-ES/firefox/">Firefox</a></p>
+              </div>
+            </div>
+            <div class="sri-col-sm-2">
+              <div class="espaciado-entre-iconos">
+                <img class="logo-navegador espaciado-entre-iconos"
+                     src="/recursos-tpi/img/sri-en-linea/navegadores/edge.png" alt="Descargar Edge">
+                <p class="sri-bold"><a id="linkEdge" target="_blank"
+                                       href="https://www.microsoft.com/es-es/windows/microsoft-edge">Edge</a>
+                </p>
+              </div>
+            </div>
+            <div class="sri-col-sm-2">
+              <div class="espaciado-entre-iconos">
+                <img class="logo-navegador espaciado-entre-iconos"
+                     src="/recursos-tpi/img/sri-en-linea/navegadores/safari.png"
+                     alt="Descargar Safari">
+                <p class="sri-bold"><a id="linkSafari" target="_blank"
+                                       href="https://support.apple.com/es_ES/downloads/safari">Safari</a>
+                </p>
+              </div>
+            </div>
+            <div class="sri-col-sm-2"></div>
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sri-col-sm-1"></div>
+    </div>
+  </div>
+</div>
+<div id="disablingDiv" class="disablingDiv" style="display: none"></div>
+
+		<!--Nuevo Codigo 1 -->
+		<br class="clearfloat">
+		<!--Fin de Nuevo Codigo 1 -->
+		
+		<div class="row" id="contenidoPantallaLogin">
+			<div class="col-sm-12">
+				<div id="divImgLogin" class="sri-imagen-banner">
+					<img id="imagen-banner-1" alt="" class="animated sri-imagen-banner tamanio-imagen-login" src="/recursos-tpi/img/login/login1.jpg" style="z-index: 0;"/>
+					<img id="imagen-banner-2" alt="" class="animated sri-imagen-banner tamanio-imagen-login" src="/recursos-tpi/img/login/login2.jpg" style="z-index: 1;"/>
+					<img id="imagen-banner-3" alt="" class="animated sri-imagen-banner tamanio-imagen-login" src="/recursos-tpi/img/login/login3.jpg" style="z-index: 2;"/>
+				</div>
+				
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-8"></div>
+						
+						<div class="col-sm-4 espaciado-contenido">
+							<div class="sri-imagen-form"> </div>
+							<div id="divImgLogin" class="d-flex justify-content-center">
+		
+								<div id="divLogin" class="sri-login alineacion-seccion-login espaciado-formulario">
+									<img id="imagenLogo" alt="" class="tamanio-logo-sri" src="/recursos-tpi/img/login/logo_sri_en_linea.svg"/>
+									
+									<div id="divContenedor" class="contenedor-login">
+										<table id="anchoDoc" class="anchoDoc">
+											<tr> 
+							  					<td class="general"> 
+							   						<div id="contenedorPrincipal"> 
+							    						<div id="contenedorCentro">
+							     					
+								     						<!-- Inicio contenido -->
+								     						<div id="contenido" class="container contenedor-principal">
+																<p>
+																	
+																
+							  					
+							  									<form action="j_security_check" method="post" name="loginForm">
+									   								<table class="sri-tabla-login">
+												   						<tr> 
+												   							<td><label  for="userPri" class="etiqueta-datos-login">RUC / C.I. / Pasaporte</label></td>
+												   						</tr>
+												   						<tr>
+												   							<td>
+												   								<div class="alinea-input">
+													   								<input name="j_username" title="Ingrese su identificación" 
+													   									class="input-datos-login form-control sri-padding" type="text" id="userPri" 
+													   									maxlength="13" size="15" required="required" 
+													   									oninvalid="setCustomValidity('Ingrese su identificación')" 
+													   									oninput="setCustomValidity('')" 
+													   									onKeyPress="return soloNumerosLetras(event)" tabindex="1"/>
+													   							</div>		
+												   							</td>
+												   						</tr>
+																	   	<tr>
+																	   		<td><label for="user"   class="etiqueta-datos-login">ID adicional</label></td>
+																	   	</tr>
+																	   	<tr>
+																	   		<td>
+																	   			<div class="alinea-input">
+																		   			<input name="j_cedula" class="input-datos-login form-control sri-padding" type="text" 
+																		   				id="user" maxlength="10" size="15" onKeyPress="return soloNumerosLetras(event)" 
+																		   				tabindex="2"/>
+																		   		</div>		
+																	   		</td>
+																	   	</tr>
+																	   	<tr>
+																	   		<td><label for="password-2"  class="etiqueta-datos-login">Contrase&ntilde;a</label></td>
+																	   	</tr>
+																	   	<tr>
+																	   		<td>
+																	   			<div class="alinea-input">
+																		   			<input name="j_password" title="Ingrese su contrase&ntilde;a" 
+																		   				class="input-datos-login form-control sri-padding" type="password" id="password-2" 
+																		   				maxlength="30" size="15" required="required" 
+																		   				oninvalid="setCustomValidity('Ingrese su contrase&ntilde;a')" 
+													   									oninput="setCustomValidity('')" autocomplete="off" tabindex="3"/>
+													   							</div>		
+																	   		</td>
+																	   	</tr>
+																	   	<tr>
+																	   		<td align="center">
+																		   		<div class="alinea-input">
+																		   			<input type="hidden" name="loguear" value="si"/><br />
+																					<input type="submit" class="boton boton-ingresar-login" name="boton" 
+																						value="Ingresar" tabindex="4"/>
+																				</div>		
+																			</td>
+																	   	</tr>
+												  						<!-- Boton para recuperar clave-INICIO -->
+												   						<tr>
+												   	 						<td class="link-recuperar" align="center">
+													       						<div class="alinea-input">
+														       						<a id="opener" class="guia guia-espaciado" name="abreVentana" tabindex="5">
+																					  	<div class="row contenedor-guia-uso">
+																					    	<div class="col-sm-3 sri-mensaje-icono-quitar-padding">
+																					      		<img alt="Recuperar contrase&ntilde;a" title="Recuperar contrase&ntilde;a" class="tamano-guia-usuario" src="/recursos-tpi/img/login/icono_candado.svg" alt="Recuperar contrase&ntilde;a">
+																					    	</div>
+																					    	<div class="col-sm-9 sri-mensaje-icono-quitar-padding">
+																					      		<p class="text-center letras-guia-contribuyente">
+																					        		Recuperar contrase&ntilde;a
+																					      		</p>
+																					    	</div>
+																					  	</div>								       						
+																					</a>
+																				</div>	
+													       					</td>
+																		</tr>
+												   						<!-- Boton para recuperar clave-FIN -->
+												   					</table>
+											  					</form>
+							  
+										   						 
+													   			<br/>
+																
+																
+															</div><!-- FIN contenido -->
+													
+															<!-- Inicio popup GCL -->
+															<div id="dialog" style="z-index:1002; background-color:white"></div>
+															<!-- Fin popup GCL -->
+															
+														</div><!-- FIN contenedor Centro -->
+													</div><!-- Fin contenedorPrincipal -->
+												</td>
+											</tr>
+										</table>
+									</div>	
+								</div>
+							</div>
+						</div>
+					
+						
+						
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 alinea-footer">
+				<div id="requerimiento" class="fondo-footer">
+					Microsoft Edge 38, Firefox 53, Chrome 58, Safari 10 (o superiores).<br/>
+					&copy; Copyright 2017 Servicio de Rentas Internas
+				</div>
+			</div>
+		</div>
+		
+		<div id="terminoSession"></div>
+		
+		<script src="/recursos-tpi/js/banner.js" type="application/javascript"></script>
+		<!-- <script src="/recursos-tpi/js/configuracion-navegadores-no-soportados-login.js" type="application/javascript"></script>
+		<script src="/recursos-tpi/js/navegadores-no-soportados-login.js" type="application/javascript"></script>-->
+		<script>
+		/*
+		 * Tipo de Componente: JS
+		 * Nombre: versionesNoSoportadasNavegadores.js
+		 * Descripción: Variables con la versión no soportada de los navegadores
+		 * Autor: Mario Granja
+		 * Parametros: ninguno
+		 * Valores de retorno: ninguno
+		*/
+
+
+		var VERSION_MINIMA_SOPORTADA_SAFARI = 10;
+		var VERSION_MINIMA_SOPORTADA_FIREFOX = 53;
+		var VERSION_MINIMA_SOPORTADA_CHROME = 58;
+		var VERSION_MINIMA_SOPORTADA_EDGE = 15;
+
+
+		var ID_BIENVENIDOS = '';
+		var ESTA_EN_BIENVENIDOS = false;
+		var TIMEOUT_VALIDACION = 1500;
+
+		/*
+		 * Tipo de Componente: JS
+		 * Nombre: verificarNavegadorPaginaBienvenidos.js
+		 * Descripción: Verifica que se use un navegador soportado
+		 * Autor: Mario Granja
+		 * Parametros: ninguno
+		 * Valores de retorno: ninguno
+		*/
+		navigator.browserSpecs = (function () {
+		  var ua = navigator.userAgent, tem,
+		    M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+		  if (/trident/i.test(M[1])) {
+		    tem = /\brv[ :]+(\d+)/g.exec(ua) || [];
+		    return {name: 'IE', version: (tem[1] || '')};
+		  }
+		  if (M[1] === 'Chrome') {
+		    tem = ua.match(/\b(OPR|Edge)\/(\d+)/);
+		    if (tem != null) return {name: tem[1].replace('OPR', 'Opera'), version: tem[2]};
+		  }
+		  M = M[2] ? [M[1], M[2]] : [navigator.appName, navigator.appVersion, '-?'];
+		  if ((tem = ua.match(/version\/(\d+)/i)) != null) M.splice(1, 1, tem[1]);
+		  return {name: M[0], version: M[1]};
+		})();
+
+
+		if ((navigator.browserSpecs.name == 'MSIE' || navigator.browserSpecs.name == 'IE')  
+		  	|| (navigator.browserSpecs.name == 'Chrome' && Number(navigator.browserSpecs.version) < VERSION_MINIMA_SOPORTADA_CHROME) 
+			|| (navigator.browserSpecs.name == 'Firefox' && Number(navigator.browserSpecs.version)< VERSION_MINIMA_SOPORTADA_FIREFOX) 
+		  	|| (navigator.browserSpecs.name == 'Safari' && Number(navigator.browserSpecs.version) < VERSION_MINIMA_SOPORTADA_SAFARI)
+    	  	|| (navigator.browserSpecs.name == 'Edge' && Number(navigator.browserSpecs.version) < VERSION_MINIMA_SOPORTADA_EDGE)
+		) {
+
+		  setTimeout(function () {
+
+		    
+		    document.getElementById('noSoportado').style.display = 'block';
+		    document.getElementById('disablingDiv').style.display = 'block';
+		    document.getElementById('contenidoPantallaLogin').style.display = 'none';
+		   		   
+
+		    if (ESTA_EN_BIENVENIDOS) {
+		      document.getElementById(ID_BIENVENIDOS).style.display = 'none';
+		    }
+
+		  }, TIMEOUT_VALIDACION);
+
+		} 
+					
+		</script>
+	</body>
+</html>

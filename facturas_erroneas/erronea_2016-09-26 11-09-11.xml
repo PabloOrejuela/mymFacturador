@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MYMCCTL CONSULTORES CONTABLES TRIBUTARIOS LEGALES CIA LTDA</razonSocial>
+        <nombreComercial>MYMCCTL CONSULTORES CONTABLES TRIBUTARIOS LEGALES CIA LTDA</nombreComercial>
+        <ruc>1792325293001</ruc>
+        <claveAcceso>2206201601179232529300120010010000019161234567813</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000001916</secuencial>
+        <dirMatriz>AV AMAZONAS N39-185 Y AV GASPAR DE VILLAROEL EDIF JIMENEZ PISO 3</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>22/06/2016</fechaEmision>
+        <dirEstablecimiento>AV AMAZONAS N39-185 Y AV GASPAR DE VILLAROEL EDIF JIMENEZ PISO 3</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>ROCK &amp; POP F.M. YAVA S.A.</razonSocialComprador>
+        <identificacionComprador>0991346155001</identificacionComprador>
+        <totalSinImpuestos>1024.28</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>3</codigoPorcentaje>
+                <baseImponible>1024.28</baseImponible>
+                <tarifa>14</tarifa>
+                <valor>143.40</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>1167.68</importeTotal>
+        <moneda>DOLAR</moneda>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>777</codigoPrincipal>
+            <descripcion>HONORARIOS JUNIO 2016 ROCK &amp; POP</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>1024.28</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>1024.28</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>3</codigoPorcentaje>
+                    <tarifa>14</tarifa>
+                    <baseImponible>1024.28</baseImponible>
+                    <valor>143.40</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Dirección">PICHINCHA / QUITO / JUAN SEVERINO E6-59 Y AV. ELOY ALFARO</campoAdicional>
+        <campoAdicional nombre="Teléfono">022547537</campoAdicional>
+        <campoAdicional nombre="Email">subgerencia@consultoresmym.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature773476">
+<ds:SignedInfo Id="Signature-SignedInfo365939">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID843462" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature773476-SignedProperties897001">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>bcVftn0mvLyJvOnfBHny9ccbpHc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1925263">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>AoxI1Pto2k1wsx/t+4egCeUkiwc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-50184" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>cpJAKUVpKw17Pjm3MvYFWiNYNvw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue879131">
+BMdbSi1Pyiha4jLXRZA3xD5rijxzsCUZTol2s6va3tPPSZOPwt4URI8R56cG5mdZDHFPQ2TVXsr3
+lvu3/H69Z7MZRwvzuxTPkSQQ9rgr5qf3eWzkHWQgSGlEdJJQVYD+DJAm355bPJzkihnhXbS54dIi
+2oMi+MQ5YuE8bsRO0ahBUXMm0gOqoqdfXHgc8vilzlMP1aPWD5gYG+ujkM82wGnXpfhzeqFiiRN8
+WOv8IF6q7fPhUkjBtjJXRslh4XjH+3yz5+tSTjgkIOPl0A1bRWL9xMalXGz2nUPBwvIIFfjFAEA5
+gD95vsuSYzVQ3WW4Ld4D+Nz072JeQD1pcSse1A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1925263">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKLDCCCBSgAwIBAgIETkYltzANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE2MDMyMTIxMDE0MloXDTE4MDMyMTIxMzE0
+MlowgbYxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE6MBEGA1UEBRMKMDAwMDA2NTczNzAlBgNVBAMTHlZJQ1RPUiBIVUdPIE1B
+TERPTkFETyBHVUVSUkVSTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMCNAcvzceHg
+TVJaN/K9k2l57bt0St6nPUaQw1K2f/UdunMHmkhQyn3vOjJ4QrhK4/2beh+g0u6jbK65Va9uu+Fn
+/9TE6oUqY4bmbi4wPzaViCTRPDBm6OGfcSNzOdFE1HTFEkRHnUNqS2eZDtqMYW2O1tRBoQl2z6cz
+iNo5SdKr3GtgLLBNLjmkrEWZCoUT0V7znJv2dd74KfnlX0LzS3G1i5CSW3TgorDrrZOE9+nwitQ5
+l29ZAaUX47zc1dgRI/LrGdRERsoGITHAuTYlpBrMB9IuQjv7GJMAoFR0TC2y9vq5q1u87jb2u+Cw
+TVFUndPHyhhG/VGABb09iLDUhrkCAwEAAaOCBVMwggVPMAsGA1UdDwQEAwIHgDBnBgNVHSAEYDBe
+MFwGCysGAQQBgqg7AgIBME0wSwYIKwYBBQUHAgEWP2h0dHA6Ly93d3cuZWNpLmJjZS5lYy9wb2xp
+dGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLWp1cmlkaWNhLnBkZjCBkQYIKwYBBQUHAQEEgYQwgYEw
+PgYIKwYBBQUHMAGGMmh0dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1
+cy9vY3NwMD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3
+ZWIvc3RhdHVzL29jc3AwSQYKKwYBBAGCqDsDCgQ7EzlNWU1DQ1RMIENPTlNVTFRPUkVTIENPTlRB
+QkxFUyBUUklCVVRBUklPUyBMRUdBTEVTIENJQUxUREEwHQYKKwYBBAGCqDsDCwQPEw0xNzkyMzI1
+MjkzMDAxMBoGCisGAQQBgqg7AwEEDBMKMTcxMDg1NDk5MTAbBgorBgEEAYKoOwMCBA0TC1ZJQ1RP
+UiBIVUdPMBkGCisGAQQBgqg7AwMECxMJTUFMRE9OQURPMBgGCisGAQQBgqg7AwQEChMIR1VFUlJF
+Uk8wHwYKKwYBBAGCqDsDBQQREw9HRVJFTlRFIEdFTkVSQUwwOAYKKwYBBAGCqDsDBwQqEyhBViBB
+TUFaT05BUyBOMzkxODUgWSBHQVNQQVIgREUgVklMTEFST0VMMBkGCisGAQQBgqg7AwgECxMJMDIy
+MjQ1MDg5MBUGCisGAQQBgqg7AwkEBxMFUXVpdG8wFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMB4G
+CisGAQQBgqg7AzMEEBMOSEFSRFdBUkUtVE9LRU4wLwYDVR0RBCgwJoEkcm9sYW5kby5tYWxkb25h
+ZG9AY29uc3VsdG9yZXNteW0uY29tMIIB3wYDVR0fBIIB1jCCAdIwggHOoIIByqCCAcaGgdVsZGFw
+Oi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMzA4LGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFM
+JTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04l
+MjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFE
+T1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJj
+ZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29tYi5jcmykgbUwgbIxCzAJBgNVBAYTAkVDMSIw
+IAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UE
+AxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjEPMA0GA1UEAxMGQ1JMMzA4MCsGA1UdEAQk
+MCKADzIwMTYwMzIxMjEwMTQyWoEPMjAxODAzMjEyMTMxNDJaMB8GA1UdIwQYMBaAFBj58PvmMhyZ
+ZjkqyouyaX1JJ7/OMB0GA1UdDgQWBBR7Ssq1rVvRqxpsz0MKti+39NU5sjAJBgNVHRMEAjAAMBkG
+CSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQCHkw8tkaFFgfq7iLur
+kNG9p6xvLilRbUkMSCs4GS2pyUYtoS2x/83tANmNvRXdRcQ56L6bU+E7o3aMXoJ7KB2JGV0dUAQs
+hUHeS4M+kpALx/usqfIKNlGzsViKq1XElTflzfs6ljUQwOLJlUS2JPsemSDShITT9OBWxuRwMkvf
+1Cp9zJqrhLhW5W+UR7OENTVTFc31HO8rVBOwoo90Jz+fkChegQsCIE0tj8ENAfaBhukfkV7mnMkV
+ZUOleUXR5FWtN3GnjUDTckLl8rikiDpL+jgxSHmswJ7GM4lhG2byTEfbYApZ1hnBA4Y6MVgxdefs
+nRTSIPEvYMxUMcCaG69oiN9S3Pa+qBBw1+dx02cipuYflv+7Blcsl5E9ZTvy4cT9dp36meruIDgS
+lhs5SVSlw6Cx6JuZGBEdWTJOjWC8pFe4tQcWe9Xm8cEbNLcHsyCHiUHjrkiJZwGFsT88qNjNHk5i
+afiW4F13NGecX2oMa3lPcuzXpFDIq69Te0sDcXXZDcyDXv6V6TzhySzRg20r+4hS+L9m6NqK53iM
+rW1YmEqYA+/AA/lVBEVmK47G3cXoMTVNZEO98VwcF0No6uIXDR+RTje5V8fUcgkt3N4CS4XVzYyV
+RJ6DOORkNquUZPwYyXxJANKw8bqSs7Ya84Ir0OYwZXy5iKcQLRVjLueLMQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wI0By/Nx4eBNUlo38r2TaXntu3RK3qc9RpDDUrZ/9R26cweaSFDKfe86MnhCuErj/Zt6H6DS7qNs
+rrlVr2674Wf/1MTqhSpjhuZuLjA/NpWIJNE8MGbo4Z9xI3M50UTUdMUSREedQ2pLZ5kO2oxhbY7W
+1EGhCXbPpzOI2jlJ0qvca2AssE0uOaSsRZkKhRPRXvOcm/Z13vgp+eVfQvNLcbWLkJJbdOCisOut
+k4T36fCK1DmXb1kBpRfjvNzV2BEj8usZ1ERGygYhMcC5NiWkGswH0i5CO/sYkwCgVHRMLbL2+rmr
+W7zuNva74LBNUVSd08fKGEb9UYAFvT2IsNSGuQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature773476-Object299121"><etsi:QualifyingProperties Target="#Signature773476"><etsi:SignedProperties Id="Signature773476-SignedProperties897001"><etsi:SignedSignatureProperties><etsi:SigningTime>2016-06-22T15:44:09-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>U4AoYragqJjUTAc12Ci7HepeOc4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1313220023</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-50184"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

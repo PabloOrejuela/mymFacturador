@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01/04/2016, 17:00:08
+    Author     : Programador
+*/
+
+/* 
+Los td de la tabla con esta clase no tienen padding 
+muy util para tablas de documentos
+*/
+table.td_no_padding_table td{
+    padding: 0px !important;
+}
+
+/* Asigna el espacio que utilizara el div izquierdo junto al input */
+.codigo_lateral {
+    width: 28%;
+}
+
+div.jq-toast-wrap{
+	z-index: 1;
+}
+
+#table_inventario {
+    max-width: 860px !important;
+}

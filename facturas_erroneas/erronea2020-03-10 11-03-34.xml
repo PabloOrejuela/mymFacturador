@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0808201901179188503100120010010000000131234567816</numeroAutorizacion>
+<fechaAutorizacion>2019-08-08T19:24:45-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>HIDROMARKET SCC</razonSocial><ruc>1791885031001</ruc><claveAcceso>0808201901179188503100120010010000000131234567816</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000000013</secuencial><dirMatriz>VISTA GRANDE  MIRAVALLE , ELIZA AYALA 89 Y EFRAIN RECALDE</dirMatriz></infoTributaria><infoFactura><fechaEmision>08/08/2019</fechaEmision><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>STALIN RAZA  </razonSocialComprador><identificacionComprador>1712950375</identificacionComprador><totalSinImpuestos>48.54</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>48.54</baseImponible><valor>5.82</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>54.36</importeTotal><moneda>DOLAR</moneda></infoFactura><detalles><detalle><codigoPrincipal>221</codigoPrincipal><codigoAuxiliar>05560-0002</codigoAuxiliar><descripcion>CODO 40 X 90 GR. PVC PEGADO</descripcion><cantidad>1.00</cantidad><precioUnitario>1.660000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.66</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>1.66</baseImponible><valor>0.20</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>107</codigoPrincipal><codigoAuxiliar>15</codigoAuxiliar><descripcion>LIMPIADOR C-65 14 GALON 947 ML WELD-ON IPS</descripcion><cantidad>0.25</cantidad><precioUnitario>14.690000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.67</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>3.67</baseImponible><valor>0.44</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>109</codigoPrincipal><codigoAuxiliar>17</codigoAuxiliar><descripcion>PEGA PVC AMERICANA 705 14 GALON  947ML WELD-ON IPS</descripcion><cantidad>0.25</cantidad><precioUnitario>18.930000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.73</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>4.73</baseImponible><valor>0.57</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>294</codigoPrincipal><codigoAuxiliar>05545-0004</codigoAuxiliar><descripcion>TEE 40 MM PVC PEGADA</descripcion><cantidad>1.00</cantidad><precioUnitario>2.030000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.03</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>2.03</baseImponible><valor>0.24</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>545</codigoPrincipal><codigoAuxiliar>09115-0070</codigoAuxiliar><descripcion>Reparación y mantenimiento</descripcion><cantidad>1.00</cantidad><precioUnitario>35.000000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>35.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>35.00</baseImponible><valor>4.20</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>123</codigoPrincipal><codigoAuxiliar>31</codigoAuxiliar><descripcion>TUBO PVC EC 32MM X 1.25MPA X 6M</descripcion><cantidad>0.25</cantidad><precioUnitario>5.760000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.44</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>1.44</baseImponible><valor>0.17</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="comentario"><![CDATA[Sistema de riego automatico, Urb. Meneses Pallares]]></campoAdicional><campoAdicional nombre="Email">stalinraza@hotmail.com</campoAdicional><campoAdicional nombre="Teléfono">2908453</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature287017">
+<ds:SignedInfo Id="Signature-SignedInfo136325">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID337003" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature287017-SignedProperties110487">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>UAD3G8a8jH3tSRq1TQ4xalZ7/Bs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1391715">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xVvjJOdp/qxnm6gbLvtTBQsBV4s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-544687" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>v+IL0v6W/JNxP+w5ximdSYkCT2o=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue421106">
+V1ERbl73qICONTnKLNOmHbwlHxHjvaobIBDjghG7L9tvu2ZfR0fnASrummiBda33iyjiOsA29unw
+2A4bqtD2Kjs60UCjZjzepmz4Sl4Ii1BYwbmtD2cOOBceGOnAyr1Xtihbryf6yDqjFolA1yglq+BA
+Mn4k8J8K23Y2gB8zkzpAPK5Ot/zG5ZNe1Bhf1GMncBmpmz9JD6y4reYtlLm8Wp+Wb3/EVU6LNM7n
+Nf4tea+hA+ODH0YwPWAnU7VzMmxT0N2RGbNouzPaU3Taahd732+2OEqzm+q9aYwYkH7PYeHR1BDK
+XdlF0M7EWrLeqVLDkUG7w4xhERPPU6x1/5zNVw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1391715">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJoTCCCImgAwIBAgIEVNO05TANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0xOTAxMTExNTIzNTVaFw0yMTAxMTExNTUzNTVaMIGbMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xPTATBgNVBAUTDDA5MDExOTA5MzI0NDAmBgNVBAMT
+H0RJRUdPIEdVU1RBVk8gU0NITkVJREVSIFNBTEdBRE8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDRvkOEwUYK3nCvJM0iZHmZTB+5XGKJNhsu0h/Rz+Krr4HHPLS0cmcRb2HAHEiRrA0R
+P+t/dH7j+/zLzaIcLzeoA2ZAKLQvVS8LdpGauocanaMNn372zQ/V/G1SqyyTkdIcPf7lZ2vD4EJq
+7AXCjbKy80HPDFT0ZMtYT4ucqCHaUzIGKi8e65HIMhX9OGeDlsAkACUzHcAGc1lzjSpBWI0ZzeKV
+wvSA5gqcawHJLwMWnZyaxTq4s9jsdwCm10/RgUrYJqrUDIKoc6LBAxpDSVkynfh336EZ4jQgpDBx
++4UVhuWoyTc/iyRl8H9C5OOYxZcTiQ05cL8VCHqW4X6dDffNAgMBAAGjggXxMIIF7TALBgNVHQ8E
+BAMCBeAwWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHMBgNVHSAEgcQwgcEwQAYK
+KwYBBAGCpnICCTAyMDAGCCsGAQUFBwICMCQaIkNlcnRpZmljYWRvIGRlIFJlcHJlc2VudGFudGUg
+TGVnYWwwfQYKKwYBBAGCpnICAzBvMG0GCCsGAQUFBwIBFmFodHRwczovL3d3dy5zZWN1cml0eWRh
+dGEubmV0LmVjL2xleWVzX25vcm1hdGl2YXMvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJl
+c2VudGFudGUgTGVnYWwucGRmMCIGCisGAQQBgqZyAwoEFBMSSElEUk9NQVJLRVQgUy5DLkMuMB0G
+CisGAQQBgqZyAwsEDxMNMTc5MTg4NTAzMTAwMTAaBgorBgEEAYKmcgMBBAwTCjE3MDg1MzEyMTMw
+HQYKKwYBBAGCpnIDAgQPEw1ESUVHTyBHVVNUQVZPMBkGCisGAQQBgqZyAwMECxMJU0NITkVJREVS
+MBcGCisGAQQBgqZyAwQECRMHU0FMR0FETzAXBgorBgEEAYKmcgMFBAkTB0dFUkVOVEUwLwYKKwYB
+BAGCpnIDBwQhEx9FTElaQSBBWUFMQSA4OSBZIEVGUkFJTiBSRUNBTERFMBwGCisGAQQBgqZyAwgE
+DhMMNTkzOTk5MTkwMTM4MBUGCisGAQQBgqZyAwkEBxMFUVVJVE8wFwYKKwYBBAGCpnIDDAQJEwdF
+Q1VBRE9SMB8GCisGAQQBgqZyAyAEERMPMDAyMDAxMDAwMDMwMjM3MBMGCisGAQQBgqZyAyEEBRMD
+UEZYMCIGA1UdEQQbMBmBF2hpZHJvbWFya2V0QGhvdG1haWwuY29tMIICewYDVR0fBIICcjCCAm4w
+ggJqoIICZqCCAmKGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJs
+aWN3ZWIvc3RhdHVzL29jc3CGgdVsZGFwOi8vZGlyZWN0LnNlY3VyaXR5ZGF0YS5uZXQuZWMvY249
+Q1JMMzI1LGNuPUFVVE9SSURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMFNVQiUyMFNFQ1VSSVRZ
+JTIwREFUQSxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lP
+TixvPVNFQ1VSSVRZJTIwREFUQSUyMFMuQS4sYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0
+P2Jhc2WGgZ5odHRwczovL2RpcmVjdC5zZWN1cml0eWRhdGEubmV0LmVjL35jcmwvYXV0b3JpZGFk
+X2RlX2NlcnRpZmljYWNpb25fc3ViX3NlY3VyaXR5X2RhdGFfZW50aWRhZF9kZV9jZXJ0aWZpY2Fj
+aW9uX2RlX2luZm9ybWFjaW9uX2N1cml0eV9kYXRhX3MuYS5fY19lY19jcmxmaWxlLmNybKSBpzCB
+pDELMAkGA1UEBhMCRUMxGzAZBgNVBAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUIgU0VDVVJJVFkgREFUQTEPMA0GA1UEAxMGQ1JMMzI1MCsGA1Ud
+EAQkMCKADzIwMTkwMTExMTUyMzU1WoEPMjAyMTAxMTExNTUzNTVaMB8GA1UdIwQYMBaAFPcvTOB1
+52KjeJZbBrYucTvMbD+QMB0GA1UdDgQWBBRvjhPp9F5BBDX1X2zTH4rRXwTOGTAJBgNVHRMEAjAA
+MBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgOoMA0GCSqGSIb3DQEBCwUAA4IBAQBfF2ZamYieofHU
+Id9+wqirbTuOq86+yMiSZl9eJ8vmkbeq/u8BzpLvYkfWu+t7fg4AdOd2k5vThWqqKefq/csgV37O
+q0DLZNXDHyZS/PmqIJB3C4ri0QAqjmrFF8ArRbVg9uk0lTmUV7Cd1pZuTSIJNlbcD6nDhu7lZK2t
+U74hqRXovc7mlGZyKnPfLcaBxrTuyo0AI0fpw17bTiDlPmIUp+aN4rY3Tnge5hiF0RSOqOc877tq
+CwYEOCqbhxfiRIKD/bXvEE862/ctfXQ24DaioKwX1oNbh7BA1vo3glog2vpNCh2MAM358fPFJxSj
+SUDuppI1w01TewN3pO6LGKIq
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+0b5DhMFGCt5wryTNImR5mUwfuVxiiTYbLtIf0c/iq6+Bxzy0tHJnEW9hwBxIkawNET/rf3R+4/v8
+y82iHC83qANmQCi0L1UvC3aRmrqHGp2jDZ9+9s0P1fxtUqssk5HSHD3+5Wdrw+BCauwFwo2ysvNB
+zwxU9GTLWE+LnKgh2lMyBiovHuuRyDIV/Thng5bAJAAlMx3ABnNZc40qQViNGc3ilcL0gOYKnGsB
+yS8DFp2cmsU6uLPY7HcAptdP0YFK2Caq1AyCqHOiwQMaQ0lZMp34d9+hGeI0IKQwcfuFFYblqMk3
+P4skZfB/QuTjmMWXE4kNOXC/FQh6luF+nQ33zQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature287017-Object165934"><etsi:QualifyingProperties Target="#Signature287017"><etsi:SignedProperties Id="Signature287017-SignedProperties110487"><etsi:SignedSignatureProperties><etsi:SigningTime>2019-08-08T19:24:52-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>R3yaGtBCSauKyvYZjMDelslxR1s=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1423160549</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-544687"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

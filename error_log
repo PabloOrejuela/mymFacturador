@@ -1,0 +1,807 @@
+[19-Aug-2016 18:03:22 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2016 18:03:22 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2016 23:56:12 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    ?<?xml ver...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[19-Aug-2016 23:56:41 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    ?<?xml ver...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[19-Aug-2016 23:56:54 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    ?<?xml ver...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[19-Aug-2016 23:57:13 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    ?<?xml ver...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[19-Aug-2016 23:57:50 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    ?<?xml ver...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[19-Aug-2016 23:58:06 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    ?<?xml ver...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[19-Aug-2016 23:58:27 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    ?<?xml ver...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[19-Aug-2016 23:59:43 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    ?<?xml ver...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[20-Aug-2016 00:00:27 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    ?<?xml ver...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[20-Aug-2016 00:03:06 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    ?<?xml ver...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[20-Aug-2016 00:09:40 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    <?xml vers...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[20-Aug-2016 00:10:28 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    <?xml vers...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[20-Aug-2016 00:12:53 America/Guayaquil] PHP Fatal error:  Call to a member function children() on a non-object in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 27
+[20-Aug-2016 00:14:23 America/Guayaquil] PHP Fatal error:  Call to a member function children() on a non-object in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 27
+[20-Aug-2016 00:15:08 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    <?xml vers...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[20-Aug-2016 00:16:44 America/Guayaquil] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php:28
+Stack trace:
+#0 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(28): SimpleXMLElement->__construct('?    <?xml vers...')
+#1 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(188): facturacion_electronica->lector('comprobante_000...')
+#2 /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php(173): facturacion_electronica->leer_archivos_directorio('uploads')
+#3 [internal function]: facturacion_electronica->subida_multiple()
+#4 /home/dp3827/public_html/mym_facturador/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/dp3827/public_html/mym_facturador/index.php(202): require_once('/home/dp3827/pu...')
+#6 {main}
+  thrown in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 28
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:00:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:31 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2016 10:01:57 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 12:11:14 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 12:11:14 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 12:11:14 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 15:30:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 15:30:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 15:30:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 15:39:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 15:39:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 15:39:51 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:08:40 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:08:40 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:08:40 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:10:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:10:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:10:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:35:56 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 16:36:03 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 17:08:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 17:08:47 America/Guayaquil] PHP Fatal error:  Call to a member function children() on a non-object in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 35
+[22-Aug-2016 17:10:17 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 17:10:17 America/Guayaquil] PHP Fatal error:  Call to a member function children() on a non-object in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 35
+[22-Aug-2016 17:11:33 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 17:11:33 America/Guayaquil] PHP Fatal error:  Call to a member function children() on a non-object in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 35
+[22-Aug-2016 17:14:27 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[22-Aug-2016 17:14:27 America/Guayaquil] PHP Fatal error:  Call to a member function children() on a non-object in /home/dp3827/public_html/mym_facturador/application/controllers/facturacion_electronica.php on line 35
+[22-Aug-2016 17:33:55 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:06:46 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:06:46 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:06:46 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:06:46 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:06:46 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:06:46 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:06:46 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:06:46 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:06:46 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:06:46 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:07:25 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:07:25 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:07:25 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:07:25 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:07:25 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:07:25 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:07:25 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:07:25 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:07:25 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:07:25 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:19 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[23-Aug-2016 10:09:47 America/Guayaquil] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:13:25 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:13:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:14:24 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:14:32 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:14:56 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:16:44 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:31:14 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 20:41:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 22:25:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[08-Nov-2021 22:54:45 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[09-Nov-2021 01:42:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[09-Nov-2021 14:34:07 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[09-Nov-2021 14:38:18 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[09-Nov-2021 14:55:20 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 529
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 530
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 536
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Shared/String.php on line 537
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2186
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2294
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2296
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2372
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2374
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2383
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2632
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2761
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2763
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 2764
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3039
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3042
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3043
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3459
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3501
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3505
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3558
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Calculation.php on line 3559
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729
+[09-Nov-2021 15:02:35 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/dp3827/public_html/mym_facturador/application/libraries/PHPExcel/Worksheet/AutoFilter.php on line 729

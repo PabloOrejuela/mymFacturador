@@ -1,0 +1,858 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/theme.css.jsf?ln=primefaces-aristo" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/sri.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/tablas.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/formularios.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/listas.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/calendar.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/modalPanel.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/aplicacion.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/tuportal.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/comprobantes.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/simpleTogglePanel.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/nuevasclases.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/sri-en-linea-cargando.css.jsf?ln=css" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/primefaces.css.jsf?ln=primefaces" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/watermark/watermark.css.jsf?ln=primefaces" /><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/dataScroller.css.jsf?ln=css" /><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/comun.js.jsf?ln=js"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/util.js.jsf?ln=js"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/ajax.js.jsf?ln=js"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/bottonManejo.js.jsf?ln=js"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/jsf.js.jsf?ln=javax.faces"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/jquery.js.jsf"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/richfaces.js.jsf"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/richfaces-queue.js.jsf"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/richfaces-base-component.js.jsf"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/status.js.jsf?ln=org.richfaces"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/jquery/jquery.js.jsf?ln=primefaces"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/primefaces.js.jsf?ln=primefaces"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/watermark/watermark.js.jsf?ln=primefaces"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/datatable.js.jsf?ln=org.richfaces"></script><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/rfRes/datatable.ecss.jsf?db=eAG7ELb5HwAGqgLY&amp;ln=org.richfaces" /><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/richfaces-event.js.jsf"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/datascroller.js.jsf?ln=org.richfaces"></script><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/rfRes/datascroller.ecss.jsf?db=eAG7ELb5HwAGqgLY&amp;ln=org.richfaces" /><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/popupPanel.js.jsf?ln=org.richfaces"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/popupPanelBorders.js.jsf?ln=org.richfaces"></script><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/popupPanelSizer.js.jsf?ln=org.richfaces"></script><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/rfRes/popupPanel.ecss.jsf?db=eAG7ELb5HwAGqgLY&amp;ln=org.richfaces" />
+            <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+            <meta name="format-detection" content="telephone=no" />
+            <title>SRI - SISTEMA DE COMPROBANTES ELECTRONICOS
+            </title>
+
+            <link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/resources/css/sri-cel-reconstruccion.css?v1.0_25062018_1448" /><script type="text/javascript" src="/comprobantes-electronicos-internet/javax.faces.resource/calendar_es.js.jsf?ln=js"></script>
+
+            <link rel="stylesheet" href="/recursos-tpi/css/sri-reconstruccion.css" type="text/css" />        
+            <link rel="stylesheet" href="/recursos-tpi/css/animate.min.css" type="text/css" />
+            <link rel="stylesheet" href="/recursos-tpi/css/sri-recursos-sri.css" type="text/css" />
+            <link rel="stylesheet" href="/recursos-tpi/css/menu.css" type="text/css" />
+            <script type="text/javascript" src="/recursos-tpi/js/sri.js"></script></head><body>
+
+            <!--Nuevo Codigo 1 -->
+
+            <!--Fin de Nuevo Codigo 1 --><table id="anchoDoc" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="general"><div class="sri-header">
+                    <div class="boton-mostrar-menu sri-tooltip">
+                        <span class="tooltiptext-derecha sri-tooltip-menu">Mostrar-Ocultar Menú</span>
+                        <a class="top-icono-menu" href="#" onclick="mostrarOcultaSidebar()" onkeypress="mostrarOcultaSidebar()">
+                            <span class="topbar-icon-sri sri-flex-centrado sri-menu-icon-menu-hamburguesa sri-size-hamburguesa"></span>                      
+                            <span class="sri-salirOutputLinkText">sri-menu-icon-menu-hamburguesa</span>
+                        </a>
+                    </div><div class="sri-logo-cabecera sri-tooltip">
+                        <span class="tooltiptext-derecha sri-tooltip-inicio">Inicio</span>
+                        <a class="sri-imagen-cabecera" href="https://srienlinea.sri.gob.ec/tuportal-internet/"></a></div><div class="sri-info-usuario-cabecera">
+                        <div class="sri-ruc-cabecera">1724213994001</div>
+                        <div class="sri-razon-social-cabecera">SAAVEDRA CORONEL ESTEFANIA CAROLINA</div></div><div class="sri-botones-navegacion-cabecera">
+                        <div class="sri-tooltip">
+                            <span class="tooltiptext-izquierda">Inicio</span>
+                            <a href="https://srienlinea.sri.gob.ec/tuportal-internet/" aria-expanded="false">
+                                <span class="topbar-icon material-icons sri-cl-blanco">home</span>
+                                <span class="sri-salirOutputLinkText">home</span>
+                            </a>
+                        </div>
+                        <div class="sri-tooltip">
+                            <span class="tooltiptext-izquierda">Cerrar sesión</span>
+                            <a href="https://srienlinea.sri.gob.ec/tuportal-internet/salir.jspa" aria-expanded="false" class="sri-flex-unico">
+                                <span class=" topbar-icon-sri sri-flex-centrado sri-icon-cerrar-sesion sri-cl-blanco"></span>
+                                <span class="sri-salirOutputLinkText">sri-icon-cerrar-sesion</span>
+                            </a>
+                        </div></div></div></td>
+</tr>
+<tr>
+<td class="general"><div id="contenedorPrincipal" class="sri-principal-c"><div id="cuadroAplicacion"><div id="menuMPT"></div></div><div id="contenedorCentro" class=" expandido"><div id="path"></div><div id="tituloPagina"><div class="sri-textoTitulo"><span style="float:left;margin-right:5px;">Comprobantes electrónicos recibidos</span><span id="generalStatus"><span style="display:none" class="rf-st-start"></span><span class="rf-st-stop"></span><script type="text/javascript">new RichFaces.ui.Status("generalStatus")</script></span></div></div>
+
+                        <!-- Inicio contenido --><div class="contenido sri-contenido"><div id="j_idt22"></div><script id="j_idt22_s" type="text/javascript">PrimeFaces.cw('AjaxStatus','widget_j_idt22',{id:'j_idt22'});widget_j_idt22.bindCallback('ajaxStart',function(){popStatusPrime.show();});widget_j_idt22.bindCallback('ajaxComplete',function(){popStatusPrime.hide();});</script><div id="dlgpopStatusPrime" class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow ajax-style"><div class="ui-dialog-content ui-widget-content">
+			<div class="row fondo-spinner">
+				<div class="col-sm-12 d-flex justify-content-center sri-logo-espere">
+				</div>
+				<div class="col-sm-12 d-flex justify-content-center texto-loading-spinner">
+					Espere por favor</div>
+				<div class="col-sm-12 d-flex justify-content-center">
+					<div class="bubblingG">
+						<span id="bubblingG_1"> </span> <span id="bubblingG_2"> </span> <span id="bubblingG_3"> </span>
+					</div>
+				</div>
+			</div></div></div><script id="dlgpopStatusPrime_s" type="text/javascript">$(function() {PrimeFaces.cw('Dialog','popStatusPrime',{id:'dlgpopStatusPrime',modal:true,width:800});});</script>
+
+		
+		
+		<!-- RECAPTCHA  -->
+		<script src="https://www.google.com/recaptcha/api.js?hl=es"></script>
+		<!-- RECAPTCHA  -->
+<form id="formMessages" name="formMessages" method="post" action="/comprobantes-electronicos-internet/pages/consultas/recibidos/comprobantesRecibidos.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="formMessages" value="formMessages" />
+<div id="formMessages:messages" class="ui-messages ui-widget"></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-4990135355172336820:3688109124192425100" autocomplete="off" />
+</form>
+<form id="frmPrincipal" name="frmPrincipal" method="post" action="/comprobantes-electronicos-internet/pages/consultas/recibidos/comprobantesRecibidos.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="frmPrincipal" value="frmPrincipal" />
+<div id="frmPrincipal:pnlBusqueda" class="pnlBusqueda">
+					<br /><label class="sri-subtitulos">Consulte los comprobantes electrónicos recibidos (factura, nota de crédito, comprobante de retención entre otros).</label>
+					<br />
+					<br /><label id="frmPrincipal:lblEtiquetacorreo" class="sri-subtitulos">Ingrese los datos para la consulta:</label>
+					<br />
+					<br /><table id="frmPrincipal:opciones" class="sri-tabla-sin-borde">
+	<tr>
+<td>
+<input type="radio" checked="checked" name="frmPrincipal:opciones" id="frmPrincipal:opciones:0" value="ruc" onclick="PrimeFaces.ab({source:this,event:'click',process:'frmPrincipal:opciones',update:'frmPrincipal:pnlBusqueda frmPrincipal:panelListaComprobantes'}, arguments[1]);" /><label for="frmPrincipal:opciones:0"> Ruc/Cédula/Pasaporte</label></td>
+	</tr>
+	<tr>
+<td>
+<input type="radio" name="frmPrincipal:opciones" id="frmPrincipal:opciones:1" value="clave" onclick="PrimeFaces.ab({source:this,event:'click',process:'frmPrincipal:opciones',update:'frmPrincipal:pnlBusqueda frmPrincipal:panelListaComprobantes'}, arguments[1]);" /><label for="frmPrincipal:opciones:1"> Clave de acceso</label></td>
+	</tr>
+	<tr>
+<td>
+<input type="radio" name="frmPrincipal:opciones" id="frmPrincipal:opciones:2" value="numero" onclick="PrimeFaces.ab({source:this,event:'click',process:'frmPrincipal:opciones',update:'frmPrincipal:pnlBusqueda frmPrincipal:panelListaComprobantes'}, arguments[1]);" /><label for="frmPrincipal:opciones:2"> Nro. Autorización</label></td>
+	</tr>
+</table><input id="frmPrincipal:txtParametro" type="text" name="frmPrincipal:txtParametro" value="1724213994001" class="sri-input-large-dos sri-input-txt-paramtero" maxlength="49" size="50" disabled="disabled" /><table>
+<tbody>
+<tr>
+<td><label class="sri-textolbl">Periodo emisión:</label></td>
+<td><select id="frmPrincipal:ano" name="frmPrincipal:ano" class="sri-input-mini sri-input-combo sri-input-combo-anio" size="1">	<option value="2020" selected="selected">2020</option>
+	<option value="2019">2019</option>
+	<option value="2018">2018</option>
+	<option value="2017">2017</option>
+	<option value="2016">2016</option>
+	<option value="2015">2015</option>
+	<option value="2014">2014</option>
+	<option value="2013">2013</option>
+	<option value="2012">2012</option>
+</select><select id="frmPrincipal:mes" name="frmPrincipal:mes" class="sri-input-medium-mini-dos sri-input-combo sri-input-combo-mes" size="1">	<option value="1" selected="selected">Enero</option>
+	<option value="2">Febrero</option>
+	<option value="3">Marzo</option>
+	<option value="4">Abril</option>
+	<option value="5">Mayo</option>
+	<option value="6">Junio</option>
+	<option value="7">Julio</option>
+	<option value="8">Agosto</option>
+	<option value="9">Septiembre</option>
+	<option value="10">Octubre</option>
+	<option value="11">Noviembre</option>
+	<option value="12">Diciembre</option>
+</select><select id="frmPrincipal:dia" name="frmPrincipal:dia" class="sri-input-mini-tres sri-input-combo sri-input-combo-dia" size="1">	<option value="0">Todos</option>
+	<option value="1">1</option>
+	<option value="2" selected="selected">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+</select></td>
+</tr>
+<tr>
+<td><label class="sri-textolbl">Tipo de comprobante</label></td>
+<td><select id="frmPrincipal:cmbTipoComprobante" name="frmPrincipal:cmbTipoComprobante" class="sri-input-comprobantes-recibidos sri-input-combo sri-input-combo-tipo-comprobante" size="1">	<option value="0" selected="selected">Todos</option>
+	<option value="1">Factura</option>
+	<option value="2">Liquidación de compra de bienes y prestación de servicios</option>
+	<option value="3">Notas de Crédito</option>
+	<option value="4">Notas de Débito</option>
+	<option value="6">Comprobante de Retención</option>
+</select></td>
+</tr>
+<tr>
+<td>
+
+
+						<!-- T&iacute;tulos para los inputs --></td>
+<td><div id="frmPrincipal:phtxtParametro" class="ui-tooltip ui-widget ui-widget-content ui-corner-all"></div><script id="frmPrincipal:phtxtParametro_s" type="text/javascript">$(function() {PrimeFaces.cw('Tooltip','widget_frmPrincipal_phtxtParametro',{id:'frmPrincipal:phtxtParametro',target:'frmPrincipal:txtParametro',showEffect:'fade',hideEffect:'fade'});});</script></td>
+</tr>
+<tr>
+<td><div id="frmPrincipal:phano" class="ui-tooltip ui-widget ui-widget-content ui-corner-all">Seleccione el año de emisión</div><script id="frmPrincipal:phano_s" type="text/javascript">$(function() {PrimeFaces.cw('Tooltip','widget_frmPrincipal_phano',{id:'frmPrincipal:phano',target:'frmPrincipal:ano',showEffect:'fade',hideEffect:'fade'});});</script></td>
+<td><div id="frmPrincipal:phmes" class="ui-tooltip ui-widget ui-widget-content ui-corner-all">Seleccione el mes de emisión</div><script id="frmPrincipal:phmes_s" type="text/javascript">$(function() {PrimeFaces.cw('Tooltip','widget_frmPrincipal_phmes',{id:'frmPrincipal:phmes',target:'frmPrincipal:mes',showEffect:'fade',hideEffect:'fade'});});</script></td>
+</tr>
+<tr>
+<td><div id="frmPrincipal:phdia" class="ui-tooltip ui-widget ui-widget-content ui-corner-all">Seleccione el día de emisión</div><script id="frmPrincipal:phdia_s" type="text/javascript">$(function() {PrimeFaces.cw('Tooltip','widget_frmPrincipal_phdia',{id:'frmPrincipal:phdia',target:'frmPrincipal:dia',showEffect:'fade',hideEffect:'fade'});});</script></td>
+<td><div id="frmPrincipal:phcmbTipoComprobante" class="ui-tooltip ui-widget ui-widget-content ui-corner-all">Seleccione el tipo de comprobante</div><script id="frmPrincipal:phcmbTipoComprobante_s" type="text/javascript">$(function() {PrimeFaces.cw('Tooltip','widget_frmPrincipal_phcmbTipoComprobante',{id:'frmPrincipal:phcmbTipoComprobante',target:'frmPrincipal:cmbTipoComprobante',showEffect:'fade',hideEffect:'fade'});});</script></td>
+</tr>
+<tr>
+<td>
+						<!-- Fin de T&iacute;tulos para los inputs -->
+
+						<!--  Placeholders para los inputs --></td>
+<td><script id="frmPrincipal:txtParametroPlaceholder_s" type="text/javascript">$(function() {PrimeFaces.cw('Watermark','widget_frmPrincipal_txtParametroPlaceholder',{id:'frmPrincipal:txtParametroPlaceholder',value:'',target:'frmPrincipal:txtParametro'},'watermark');});</script></td>
+</tr>
+<tr>
+<td>
+						<!--  Fin de placeholders para los inputs --></td>
+</tr>
+</tbody>
+</table>
+</div>
+			
+			<!-- RECAPTCHA INVISIBLE -->			
+			 <div class="g-recaptcha" data-sitekey="6Lc6rokUAAAAAJBG2M1ZM1LIgJ85DwbSNNjYoLDk" data-callback="rcBuscar" data-size="invisible">
+		     </div>
+			<!-- RECAPTCHA  --><div class="sri-centrado sri-boton-consultar"><input id="frmPrincipal:btnAnterior" type="submit" name="frmPrincipal:btnAnterior" value="Anterior" class="botonMediano sri-boton-mediano sri-bg-azul" />
+
+				 <button type="button" id="btnRecaptcha" value="Consultar" class="sri-boton-mediano sri-boton-mediano-azul" onclick="grecaptcha.execute()">Consultar</button><script type="text/javascript">rcBuscar = function() {PrimeFaces.ab({source:'frmPrincipal:j_idt49',formId:'frmPrincipal',update:'frmPrincipal:panelListaComprobantes frmPrincipal:tablaCompRecibidos',onstart:function(cfg){popStatusPrime.show();},onsuccess:function(data,status,xhr){popStatusPrime.hide();grecaptcha.reset();;},params:arguments[0]});}</script></div>
+			<div aria-labelledby="Información" class="sri-flex-unico sri-template-descargar sri-flex-left-descarga" role="region"><a id="frmPrincipal:lnkTxtlistado" href="#" onclick="mojarra.jsfcljs(document.getElementById('frmPrincipal'),{'frmPrincipal:lnkTxtlistado':'frmPrincipal:lnkTxtlistado'},'');return false" class="sri-flex-unico sri-flex-centrado sri-template-link sri-flex-left-descarga">
+
+						<div class="sri-flex-unico sri-flex-left-descarga"><img src="/comprobantes-electronicos-internet/javax.faces.resource/icono-descargar-guia.svg.jsf?ln=imagenes/recursos-sri-en-linea/imagenes/descargar-guia" alt="Exportar Txt" class="sri-descargar-solicitud-imagen" />
+						</div>
+						<div class="sri-flex-unico sri-flex-centrado sri-template-descargar-link-texto">
+							<p>Descargar reporte</p>
+						</div></a>
+				</div>
+
+			<br /><div id="frmPrincipal:panelListaComprobantes"></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-4990135355172336820:3688109124192425100" autocomplete="off" />
+</form><div id="j_idt96" class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span class="ui-dialog-title">Detalle del Comprobante</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content"><head><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/theme.css.jsf?ln=primefaces-aristo" />
+		<title>SRI - COMPROBANTE ELECTRONICOS
+		</title></head>
+<form id="form-detalle-factura" name="form-detalle-factura" method="post" action="/comprobantes-electronicos-internet/pages/consultas/recibidos/comprobantesRecibidos.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="form-detalle-factura" value="form-detalle-factura" />
+<div id="form-detalle-factura:panel-detalle-factura">
+			<div style="text-align: center;"><span style="FONT-WEIGHT: bold; FONT-SIZE: x-large;">La Información impresa no tiene validez tributaria</span>
+			</div>
+
+			<br /><div class="barraSuperior">Detalle de la Factura</div><table class="formulario">
+<tbody>
+<tr>
+<td class="formulario-label"><label>Ambiente </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Razón Social </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Nombre Comercial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Número RUC </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Clave de acceso </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Punto de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Secuencial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección matriz </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Fecha Emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Contribuyente Especial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Obligado Contabilidad </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo Identificación Comprador </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Placa/Matricula </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Guía Remisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Razón Social Comprador </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Identificación Comprador </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Total Sin impuestos </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Total Descuento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Total Propina </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Importe Total </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Moneda </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+</tbody>
+</table>
+<div class="barraInferior"> </div>
+
+			<br /><div class="barraSuperior">Detalles Factura</div><table id="form-detalle-factura:tabla-detalles-factura" class="rf-dt reporte"><colgroup span="9"></colgroup><thead id="form-detalle-factura:tabla-detalles-factura:th" class="rf-dt-thd"><tr id="form-detalle-factura:tabla-detalles-factura:ch" class="rf-dt-shdr"><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-detalles-factura:j_idt162"><span style="text-align:center;">Nro</span></th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-detalles-factura:j_idt165">Código Principal</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-detalles-factura:j_idt168">Código Auxiliar</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-detalles-factura:j_idt171">Descripción</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-detalles-factura:j_idt174">Cantidad</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-detalles-factura:j_idt177">Precio Unitario </th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-detalles-factura:j_idt180">Descuento</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-detalles-factura:j_idt183">Precio Total</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-detalles-factura:j_idt186">Impuestos</th></tr></thead><tfoot id="form-detalle-factura:tabla-detalles-factura:tf" class="rf-dt-tft"><tr id="form-detalle-factura:tabla-detalles-factura:f" class="rf-dt-ftr"><td class="rf-dt-ftr-c" colspan="9"><span class="rf-ds " id="form-detalle-factura:tabla-detalles-factura:j_idt203"><span class="rf-ds-btn rf-ds-btn-first rf-ds-dis" id="form-detalle-factura:tabla-detalles-factura:j_idt203_ds_f">««««</span><span class="rf-ds-btn rf-ds-btn-fastrwd rf-ds-dis" id="form-detalle-factura:tabla-detalles-factura:j_idt203_ds_fr">««</span><span class="rf-ds-btn rf-ds-btn-prev rf-ds-dis" id="form-detalle-factura:tabla-detalles-factura:j_idt203_ds_prev">«</span><span class="rf-ds-btn rf-ds-btn-next rf-ds-dis" id="form-detalle-factura:tabla-detalles-factura:j_idt203_ds_next">»</span><span class="rf-ds-btn rf-ds-btn-fastfwd rf-ds-dis" id="form-detalle-factura:tabla-detalles-factura:j_idt203_ds_ff">»»</span><span class="rf-ds-btn rf-ds-btn-last rf-ds-dis" id="form-detalle-factura:tabla-detalles-factura:j_idt203_ds_l">»»»»</span><script type="text/javascript">new RichFaces.ui.DataScroller("form\u002Ddetalle\u002Dfactura:tabla\u002Ddetalles\u002Dfactura:j_idt203",function(event,element,data){RichFaces.ajax("form\u002Ddetalle\u002Dfactura:tabla\u002Ddetalles\u002Dfactura:j_idt203",event,{"parameters":{"form\u002Ddetalle\u002Dfactura:tabla\u002Ddetalles\u002Dfactura:j_idt203:page":data.page} ,"incId":"1"} )},{"digitals":{} ,"buttons":{} ,"currentPage":1} )</script></span></td></tr></tfoot><tbody id="form-detalle-factura:tabla-detalles-factura:tb" class="rf-dt-b"><tr class="rf-dt-nd"><td colspan="9" class="rf-dt-nd-c" style="display: none;"></td></tr></tbody><tbody id="form-detalle-factura:tabla-detalles-factura:sc"><tr><td style="display: none"><script type="text/javascript">new RichFaces.ui.DataTable("form\u002Ddetalle\u002Dfactura:tabla\u002Ddetalles\u002Dfactura",{"ajaxEventOptions":{} } )</script></td></tr></tbody></table><div class="barraInferior"> </div>
+
+			<br /><div class="barraSuperior">Totales por impuesto</div><table id="form-detalle-factura:tabla-totales-factura" class="rf-dt reporte"><colgroup span="5"></colgroup><thead id="form-detalle-factura:tabla-totales-factura:th" class="rf-dt-thd"><tr id="form-detalle-factura:tabla-totales-factura:ch" class="rf-dt-shdr"><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-totales-factura:j_idt210"><span style="text-align:center;">Nro</span></th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-totales-factura:j_idt213">Impuesto</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-totales-factura:j_idt216">Porcentaje</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-totales-factura:j_idt219">Base Imponible</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-factura:tabla-totales-factura:j_idt222">Valor</th></tr></thead><tfoot id="form-detalle-factura:tabla-totales-factura:tf" class="rf-dt-tft"><tr id="form-detalle-factura:tabla-totales-factura:f" class="rf-dt-ftr"><td class="rf-dt-ftr-c" colspan="5"><span class="rf-ds " id="form-detalle-factura:tabla-totales-factura:j_idt225"><span class="rf-ds-btn rf-ds-btn-first rf-ds-dis" id="form-detalle-factura:tabla-totales-factura:j_idt225_ds_f">««««</span><span class="rf-ds-btn rf-ds-btn-fastrwd rf-ds-dis" id="form-detalle-factura:tabla-totales-factura:j_idt225_ds_fr">««</span><span class="rf-ds-btn rf-ds-btn-prev rf-ds-dis" id="form-detalle-factura:tabla-totales-factura:j_idt225_ds_prev">«</span><span class="rf-ds-btn rf-ds-btn-next rf-ds-dis" id="form-detalle-factura:tabla-totales-factura:j_idt225_ds_next">»</span><span class="rf-ds-btn rf-ds-btn-fastfwd rf-ds-dis" id="form-detalle-factura:tabla-totales-factura:j_idt225_ds_ff">»»</span><span class="rf-ds-btn rf-ds-btn-last rf-ds-dis" id="form-detalle-factura:tabla-totales-factura:j_idt225_ds_l">»»»»</span><script type="text/javascript">new RichFaces.ui.DataScroller("form\u002Ddetalle\u002Dfactura:tabla\u002Dtotales\u002Dfactura:j_idt225",function(event,element,data){RichFaces.ajax("form\u002Ddetalle\u002Dfactura:tabla\u002Dtotales\u002Dfactura:j_idt225",event,{"parameters":{"form\u002Ddetalle\u002Dfactura:tabla\u002Dtotales\u002Dfactura:j_idt225:page":data.page} ,"incId":"1"} )},{"digitals":{} ,"buttons":{} ,"currentPage":1} )</script></span></td></tr></tfoot><tbody id="form-detalle-factura:tabla-totales-factura:tb" class="rf-dt-b"><tr class="rf-dt-nd"><td colspan="5" class="rf-dt-nd-c" style="display: none;"></td></tr></tbody><tbody id="form-detalle-factura:tabla-totales-factura:sc"><tr><td style="display: none"><script type="text/javascript">new RichFaces.ui.DataTable("form\u002Ddetalle\u002Dfactura:tabla\u002Dtotales\u002Dfactura",{"ajaxEventOptions":{} } )</script></td></tr></tbody></table><div class="barraInferior"> </div>
+
+			<br /></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-4990135355172336820:3688109124192425100" autocomplete="off" />
+</form></div></div><script id="j_idt96_s" type="text/javascript">$(function() {PrimeFaces.cw('Dialog','dlgPanelDetalleFactura',{id:'j_idt96',draggable:false,modal:true,width:850,height:650});});</script><div id="j_idt243" class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span class="ui-dialog-title">Detalle del Comprobante</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content"><head><link type="text/css" rel="stylesheet" href="/comprobantes-electronicos-internet/javax.faces.resource/theme.css.jsf?ln=primefaces-aristo" />
+		<title>SRI - COMPROBANTE ELECTRONICOS
+		</title></head>
+<form id="form-detalle-liquidacionCompra" name="form-detalle-liquidacionCompra" method="post" action="/comprobantes-electronicos-internet/pages/consultas/recibidos/comprobantesRecibidos.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="form-detalle-liquidacionCompra" value="form-detalle-liquidacionCompra" />
+<div id="form-detalle-liquidacionCompra:panel-detalle-liquidacionCompra">
+			<div style="text-align: center;"><span style="FONT-WEIGHT: bold; FONT-SIZE: x-large;">La Información impresa no tiene validez tributaria</span>
+			</div>
+
+			<br /><div class="barraSuperior">Detalle Liquidación de compra de bienes y prestación de servicios</div><table class="formulario">
+<tbody>
+<tr>
+<td class="formulario-label"><label>Ambiente </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Razón Social </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Nombre Comercial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Número RUC </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Clave de acceso </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Punto de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Secuencial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección matriz </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Fecha Emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Contribuyente Especial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Obligado Contabilidad </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo Identificación Proveedor </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Razón Social Proveedor </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Identificación Proveedor </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Total Sin impuestos </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Total Descuento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Importe Total </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Moneda </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+</tbody>
+</table>
+<div class="barraInferior"> </div>
+
+			<br /><div class="barraSuperior">Detalles Liquidación de compra de bienes y prestación de servicios</div><table id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra" class="rf-dt reporte"><colgroup span="9"></colgroup><thead id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:th" class="rf-dt-thd"><tr id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:ch" class="rf-dt-shdr"><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt303"><span style="text-align:center;">Nro</span></th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt306">Código Principal</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt309">Código Auxiliar</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt312">Descripción</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt315">Cantidad</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt318">Precio Unitario </th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt321">Descuento</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt324">Precio Total</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt327">Impuestos</th></tr></thead><tfoot id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:tf" class="rf-dt-tft"><tr id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:f" class="rf-dt-ftr"><td class="rf-dt-ftr-c" colspan="9"><span class="rf-ds " id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt344"><span class="rf-ds-btn rf-ds-btn-first rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt344_ds_f">««««</span><span class="rf-ds-btn rf-ds-btn-fastrwd rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt344_ds_fr">««</span><span class="rf-ds-btn rf-ds-btn-prev rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt344_ds_prev">«</span><span class="rf-ds-btn rf-ds-btn-next rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt344_ds_next">»</span><span class="rf-ds-btn rf-ds-btn-fastfwd rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt344_ds_ff">»»</span><span class="rf-ds-btn rf-ds-btn-last rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:j_idt344_ds_l">»»»»</span><script type="text/javascript">new RichFaces.ui.DataScroller("form\u002Ddetalle\u002DliquidacionCompra:tabla\u002Ddetalles\u002DliquidacionCompra:j_idt344",function(event,element,data){RichFaces.ajax("form\u002Ddetalle\u002DliquidacionCompra:tabla\u002Ddetalles\u002DliquidacionCompra:j_idt344",event,{"parameters":{"form\u002Ddetalle\u002DliquidacionCompra:tabla\u002Ddetalles\u002DliquidacionCompra:j_idt344:page":data.page} ,"incId":"1"} )},{"digitals":{} ,"buttons":{} ,"currentPage":1} )</script></span></td></tr></tfoot><tbody id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:tb" class="rf-dt-b"><tr class="rf-dt-nd"><td colspan="9" class="rf-dt-nd-c" style="display: none;"></td></tr></tbody><tbody id="form-detalle-liquidacionCompra:tabla-detalles-liquidacionCompra:sc"><tr><td style="display: none"><script type="text/javascript">new RichFaces.ui.DataTable("form\u002Ddetalle\u002DliquidacionCompra:tabla\u002Ddetalles\u002DliquidacionCompra",{"ajaxEventOptions":{} } )</script></td></tr></tbody></table><div class="barraInferior"> </div>
+
+			<br /><div class="barraSuperior">Totales por impuesto</div><table id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra" class="rf-dt reporte"><colgroup span="5"></colgroup><thead id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:th" class="rf-dt-thd"><tr id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:ch" class="rf-dt-shdr"><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt351"><span style="text-align:center;">Nro</span></th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt354">Impuesto</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt357">Porcentaje</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt360">Base Imponible</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt363">Valor</th></tr></thead><tfoot id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:tf" class="rf-dt-tft"><tr id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:f" class="rf-dt-ftr"><td class="rf-dt-ftr-c" colspan="5"><span class="rf-ds " id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt366"><span class="rf-ds-btn rf-ds-btn-first rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt366_ds_f">««««</span><span class="rf-ds-btn rf-ds-btn-fastrwd rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt366_ds_fr">««</span><span class="rf-ds-btn rf-ds-btn-prev rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt366_ds_prev">«</span><span class="rf-ds-btn rf-ds-btn-next rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt366_ds_next">»</span><span class="rf-ds-btn rf-ds-btn-fastfwd rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt366_ds_ff">»»</span><span class="rf-ds-btn rf-ds-btn-last rf-ds-dis" id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:j_idt366_ds_l">»»»»</span><script type="text/javascript">new RichFaces.ui.DataScroller("form\u002Ddetalle\u002DliquidacionCompra:tabla\u002Dtotales\u002DliquidacionCompra:j_idt366",function(event,element,data){RichFaces.ajax("form\u002Ddetalle\u002DliquidacionCompra:tabla\u002Dtotales\u002DliquidacionCompra:j_idt366",event,{"parameters":{"form\u002Ddetalle\u002DliquidacionCompra:tabla\u002Dtotales\u002DliquidacionCompra:j_idt366:page":data.page} ,"incId":"1"} )},{"digitals":{} ,"buttons":{} ,"currentPage":1} )</script></span></td></tr></tfoot><tbody id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:tb" class="rf-dt-b"><tr class="rf-dt-nd"><td colspan="5" class="rf-dt-nd-c" style="display: none;"></td></tr></tbody><tbody id="form-detalle-liquidacionCompra:tabla-totales-liquidacionCompra:sc"><tr><td style="display: none"><script type="text/javascript">new RichFaces.ui.DataTable("form\u002Ddetalle\u002DliquidacionCompra:tabla\u002Dtotales\u002DliquidacionCompra",{"ajaxEventOptions":{} } )</script></td></tr></tbody></table><div class="barraInferior"> </div></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-4990135355172336820:3688109124192425100" autocomplete="off" />
+</form></div></div><script id="j_idt243_s" type="text/javascript">$(function() {PrimeFaces.cw('Dialog','dlgPanelDetalleLiquidacionCompra',{id:'j_idt243',draggable:false,modal:true,width:850,height:650});});</script><div id="j_idt369" class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span class="ui-dialog-title">Detalle del Comprobante</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content">
+<form id="form-detalle-nota-credito" name="form-detalle-nota-credito" method="post" action="/comprobantes-electronicos-internet/pages/consultas/recibidos/comprobantesRecibidos.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="form-detalle-nota-credito" value="form-detalle-nota-credito" />
+<div id="form-detalle-nota-credito:panel-detalle-nota-credito">
+			<div style="text-align: center;"><span style="FONT-WEIGHT: bold; FONT-SIZE: x-large;">La Información impresa no tiene validez tributaria</span>
+			</div>
+
+			<br /><div class="barraSuperior">Detalle nota de crédito</div><table class="formulario">
+<tbody>
+<tr>
+<td class="formulario-label"><label>Ambiente </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Razón Social </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Nombre Comercial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Número RUC </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Clave de acceso </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Punto de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Secuencial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección matriz </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Fecha Emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo Identificación Comprador </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Contribuyente Especial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Obligado Contabilidad </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>RISE </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Código Documento Modificado </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Número Documento Modificado </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Fecha Emisión Sustento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Total Sin impuestos </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Moneda </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+</tbody>
+</table>
+<div class="barraInferior"> </div>
+
+			<br /><div class="barraSuperior">Detalles Nota Crédito</div><table id="form-detalle-nota-credito:tabla-detalles-nota-credito" class="rf-dt reporte"><colgroup span="9"></colgroup><thead id="form-detalle-nota-credito:tabla-detalles-nota-credito:th" class="rf-dt-thd"><tr id="form-detalle-nota-credito:tabla-detalles-nota-credito:ch" class="rf-dt-shdr"><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt425"><span style="text-align:center;">Nro</span></th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt428">Código Principal</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt431">Código Auxiliar</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt434">Descripción</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt437">Cantidad</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt440">Precio Unitario </th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt443">Descuento</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt446">Precio Total sin Impuestos</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt449">Detalles</th></tr></thead><tfoot id="form-detalle-nota-credito:tabla-detalles-nota-credito:tf" class="rf-dt-tft"><tr id="form-detalle-nota-credito:tabla-detalles-nota-credito:f" class="rf-dt-ftr"><td class="rf-dt-ftr-c" colspan="9"><span class="rf-ds " id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt466"><span class="rf-ds-btn rf-ds-btn-first rf-ds-dis" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt466_ds_f">««««</span><span class="rf-ds-btn rf-ds-btn-fastrwd rf-ds-dis" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt466_ds_fr">««</span><span class="rf-ds-btn rf-ds-btn-prev rf-ds-dis" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt466_ds_prev">«</span><span class="rf-ds-btn rf-ds-btn-next rf-ds-dis" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt466_ds_next">»</span><span class="rf-ds-btn rf-ds-btn-fastfwd rf-ds-dis" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt466_ds_ff">»»</span><span class="rf-ds-btn rf-ds-btn-last rf-ds-dis" id="form-detalle-nota-credito:tabla-detalles-nota-credito:j_idt466_ds_l">»»»»</span><script type="text/javascript">new RichFaces.ui.DataScroller("form\u002Ddetalle\u002Dnota\u002Dcredito:tabla\u002Ddetalles\u002Dnota\u002Dcredito:j_idt466",function(event,element,data){RichFaces.ajax("form\u002Ddetalle\u002Dnota\u002Dcredito:tabla\u002Ddetalles\u002Dnota\u002Dcredito:j_idt466",event,{"parameters":{"form\u002Ddetalle\u002Dnota\u002Dcredito:tabla\u002Ddetalles\u002Dnota\u002Dcredito:j_idt466:page":data.page} ,"incId":"1"} )},{"digitals":{} ,"buttons":{} ,"currentPage":1} )</script></span></td></tr></tfoot><tbody id="form-detalle-nota-credito:tabla-detalles-nota-credito:tb" class="rf-dt-b"><tr class="rf-dt-nd"><td colspan="9" class="rf-dt-nd-c" style="display: none;"></td></tr></tbody><tbody id="form-detalle-nota-credito:tabla-detalles-nota-credito:sc"><tr><td style="display: none"><script type="text/javascript">new RichFaces.ui.DataTable("form\u002Ddetalle\u002Dnota\u002Dcredito:tabla\u002Ddetalles\u002Dnota\u002Dcredito",{"ajaxEventOptions":{} } )</script></td></tr></tbody></table><div class="barraInferior"> </div>
+
+			<br /><div class="barraSuperior">Totales por Impuesto</div><table id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito" class="rf-dt reporte"><colgroup span="5"></colgroup><thead id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:th" class="rf-dt-thd"><tr id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:ch" class="rf-dt-shdr"><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt473"><span style="text-align:center;">Nro</span></th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt476">Impuesto</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt479">Porcentaje</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt482">Base Imponible</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt485">Valor</th></tr></thead><tfoot id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:tf" class="rf-dt-tft"><tr id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:f" class="rf-dt-ftr"><td class="rf-dt-ftr-c" colspan="5"><span class="rf-ds " id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt488"><span class="rf-ds-btn rf-ds-btn-first rf-ds-dis" id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt488_ds_f">««««</span><span class="rf-ds-btn rf-ds-btn-fastrwd rf-ds-dis" id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt488_ds_fr">««</span><span class="rf-ds-btn rf-ds-btn-prev rf-ds-dis" id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt488_ds_prev">«</span><span class="rf-ds-btn rf-ds-btn-next rf-ds-dis" id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt488_ds_next">»</span><span class="rf-ds-btn rf-ds-btn-fastfwd rf-ds-dis" id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt488_ds_ff">»»</span><span class="rf-ds-btn rf-ds-btn-last rf-ds-dis" id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:j_idt488_ds_l">»»»»</span><script type="text/javascript">new RichFaces.ui.DataScroller("form\u002Ddetalle\u002Dnota\u002Dcredito:tabla\u002Dtotales\u002Dimpuesto\u002Dnota\u002Dcredito:j_idt488",function(event,element,data){RichFaces.ajax("form\u002Ddetalle\u002Dnota\u002Dcredito:tabla\u002Dtotales\u002Dimpuesto\u002Dnota\u002Dcredito:j_idt488",event,{"parameters":{"form\u002Ddetalle\u002Dnota\u002Dcredito:tabla\u002Dtotales\u002Dimpuesto\u002Dnota\u002Dcredito:j_idt488:page":data.page} ,"incId":"1"} )},{"digitals":{} ,"buttons":{} ,"currentPage":1} )</script></span></td></tr></tfoot><tbody id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:tb" class="rf-dt-b"><tr class="rf-dt-nd"><td colspan="5" class="rf-dt-nd-c" style="display: none;"></td></tr></tbody><tbody id="form-detalle-nota-credito:tabla-totales-impuesto-nota-credito:sc"><tr><td style="display: none"><script type="text/javascript">new RichFaces.ui.DataTable("form\u002Ddetalle\u002Dnota\u002Dcredito:tabla\u002Dtotales\u002Dimpuesto\u002Dnota\u002Dcredito",{"ajaxEventOptions":{} } )</script></td></tr></tbody></table><div class="barraInferior"> </div>
+
+			<br /></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-4990135355172336820:3688109124192425100" autocomplete="off" />
+</form></div></div><script id="j_idt369_s" type="text/javascript">$(function() {PrimeFaces.cw('Dialog','dlgPanelDetalleNotaCredito',{id:'j_idt369',draggable:false,modal:true,width:850,height:650});});</script><div id="j_idt506" class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span class="ui-dialog-title">Detalle del Comprobante</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content">
+<form id="form-detalle-nota-debito" name="form-detalle-nota-debito" method="post" action="/comprobantes-electronicos-internet/pages/consultas/recibidos/comprobantesRecibidos.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="form-detalle-nota-debito" value="form-detalle-nota-debito" />
+<div id="form-detalle-nota-debito:panel-detalle-nota-debito">
+			<div style="text-align: center;"><span style="FONT-WEIGHT: bold; FONT-SIZE: x-large;">La Información impresa no tiene validez tributaria</span>
+			</div>
+
+			<br /><div class="barraSuperior">Detalle nota de débito</div><table class="formulario">
+<tbody>
+<tr>
+<td class="formulario-label"><label>Ambiente </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Razón Social </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Nombre Comercial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Número RUC </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Clave de acceso </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Punto de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Secuencial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección matriz </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Fecha Emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección de Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo Identificación Comprador </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Razón Social Comprador </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Identificación Comprador </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Contribuyente Especial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Obligado Contabilidad </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>RISE </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Código Documento Modificado </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Número Documento Modificado </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Fecha Emisión Sustento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Valor Total </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+</tbody>
+</table>
+<div class="barraInferior"> </div>
+
+			<br /><div class="barraSuperior">Detalle de motivos</div><table id="form-detalle-nota-debito:tabla-motivos-nota-debito" class="rf-dt reporte"><colgroup span="3"></colgroup><thead id="form-detalle-nota-debito:tabla-motivos-nota-debito:th" class="rf-dt-thd"><tr id="form-detalle-nota-debito:tabla-motivos-nota-debito:ch" class="rf-dt-shdr"><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-debito:tabla-motivos-nota-debito:j_idt564"><span style="text-align:center;">Nro</span></th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-debito:tabla-motivos-nota-debito:j_idt567">Motivo</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-debito:tabla-motivos-nota-debito:j_idt570">Valor</th></tr></thead><tfoot id="form-detalle-nota-debito:tabla-motivos-nota-debito:tf" class="rf-dt-tft"><tr id="form-detalle-nota-debito:tabla-motivos-nota-debito:f" class="rf-dt-ftr"><td class="rf-dt-ftr-c" colspan="3"><span class="rf-ds " id="form-detalle-nota-debito:tabla-motivos-nota-debito:j_idt573"><span class="rf-ds-btn rf-ds-btn-first rf-ds-dis" id="form-detalle-nota-debito:tabla-motivos-nota-debito:j_idt573_ds_f">««««</span><span class="rf-ds-btn rf-ds-btn-fastrwd rf-ds-dis" id="form-detalle-nota-debito:tabla-motivos-nota-debito:j_idt573_ds_fr">««</span><span class="rf-ds-btn rf-ds-btn-prev rf-ds-dis" id="form-detalle-nota-debito:tabla-motivos-nota-debito:j_idt573_ds_prev">«</span><span class="rf-ds-btn rf-ds-btn-next rf-ds-dis" id="form-detalle-nota-debito:tabla-motivos-nota-debito:j_idt573_ds_next">»</span><span class="rf-ds-btn rf-ds-btn-fastfwd rf-ds-dis" id="form-detalle-nota-debito:tabla-motivos-nota-debito:j_idt573_ds_ff">»»</span><span class="rf-ds-btn rf-ds-btn-last rf-ds-dis" id="form-detalle-nota-debito:tabla-motivos-nota-debito:j_idt573_ds_l">»»»»</span><script type="text/javascript">new RichFaces.ui.DataScroller("form\u002Ddetalle\u002Dnota\u002Ddebito:tabla\u002Dmotivos\u002Dnota\u002Ddebito:j_idt573",function(event,element,data){RichFaces.ajax("form\u002Ddetalle\u002Dnota\u002Ddebito:tabla\u002Dmotivos\u002Dnota\u002Ddebito:j_idt573",event,{"parameters":{"form\u002Ddetalle\u002Dnota\u002Ddebito:tabla\u002Dmotivos\u002Dnota\u002Ddebito:j_idt573:page":data.page} ,"incId":"1"} )},{"digitals":{} ,"buttons":{} ,"currentPage":1} )</script></span></td></tr></tfoot><tbody id="form-detalle-nota-debito:tabla-motivos-nota-debito:tb" class="rf-dt-b"><tr class="rf-dt-nd"><td colspan="3" class="rf-dt-nd-c" style="display: none;"></td></tr></tbody><tbody id="form-detalle-nota-debito:tabla-motivos-nota-debito:sc"><tr><td style="display: none"><script type="text/javascript">new RichFaces.ui.DataTable("form\u002Ddetalle\u002Dnota\u002Ddebito:tabla\u002Dmotivos\u002Dnota\u002Ddebito",{"ajaxEventOptions":{} } )</script></td></tr></tbody></table><div class="barraInferior"> </div>
+
+			<br /><div class="barraSuperior">Impuestos</div><table id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito" class="rf-dt reporte"><colgroup span="6"></colgroup><thead id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:th" class="rf-dt-thd"><tr id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:ch" class="rf-dt-shdr"><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt580"><span style="text-align:center;">Nro</span></th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt583">Impuesto</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt586">Porcentaje</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt589">Base Imponible</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt592">Tarifa</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt595">Valor</th></tr></thead><tfoot id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:tf" class="rf-dt-tft"><tr id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:f" class="rf-dt-ftr"><td class="rf-dt-ftr-c" colspan="6"><span class="rf-ds " id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt598"><span class="rf-ds-btn rf-ds-btn-first rf-ds-dis" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt598_ds_f">««««</span><span class="rf-ds-btn rf-ds-btn-fastrwd rf-ds-dis" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt598_ds_fr">««</span><span class="rf-ds-btn rf-ds-btn-prev rf-ds-dis" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt598_ds_prev">«</span><span class="rf-ds-btn rf-ds-btn-next rf-ds-dis" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt598_ds_next">»</span><span class="rf-ds-btn rf-ds-btn-fastfwd rf-ds-dis" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt598_ds_ff">»»</span><span class="rf-ds-btn rf-ds-btn-last rf-ds-dis" id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:j_idt598_ds_l">»»»»</span><script type="text/javascript">new RichFaces.ui.DataScroller("form\u002Ddetalle\u002Dnota\u002Ddebito:tabla\u002Dtotales\u002Dimpuesto\u002Dnota\u002Ddebito:j_idt598",function(event,element,data){RichFaces.ajax("form\u002Ddetalle\u002Dnota\u002Ddebito:tabla\u002Dtotales\u002Dimpuesto\u002Dnota\u002Ddebito:j_idt598",event,{"parameters":{"form\u002Ddetalle\u002Dnota\u002Ddebito:tabla\u002Dtotales\u002Dimpuesto\u002Dnota\u002Ddebito:j_idt598:page":data.page} ,"incId":"1"} )},{"digitals":{} ,"buttons":{} ,"currentPage":1} )</script></span></td></tr></tfoot><tbody id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:tb" class="rf-dt-b"><tr class="rf-dt-nd"><td colspan="6" class="rf-dt-nd-c" style="display: none;"></td></tr></tbody><tbody id="form-detalle-nota-debito:tabla-totales-impuesto-nota-debito:sc"><tr><td style="display: none"><script type="text/javascript">new RichFaces.ui.DataTable("form\u002Ddetalle\u002Dnota\u002Ddebito:tabla\u002Dtotales\u002Dimpuesto\u002Dnota\u002Ddebito",{"ajaxEventOptions":{} } )</script></td></tr></tbody></table><div class="barraInferior"> </div>
+
+			<br /></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-4990135355172336820:3688109124192425100" autocomplete="off" />
+</form></div></div><script id="j_idt506_s" type="text/javascript">$(function() {PrimeFaces.cw('Dialog','dlgPanelDetalleNotaDebito',{id:'j_idt506',draggable:false,modal:true,width:850,height:650});});</script><div id="j_idt616" class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span class="ui-dialog-title">Detalle del Comprobante</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content">
+<form id="form-detalle-comprobante-retencion" name="form-detalle-comprobante-retencion" method="post" action="/comprobantes-electronicos-internet/pages/consultas/recibidos/comprobantesRecibidos.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="form-detalle-comprobante-retencion" value="form-detalle-comprobante-retencion" />
+<div id="form-detalle-comprobante-retencion:panel-detalle-comprobante-retencion">
+				<div style="text-align: center;"><span style="FONT-WEIGHT: bold; FONT-SIZE: x-large;">La Información impresa no tiene validez tributaria</span>
+				</div>	
+				<br />Detalle comprobante de retención
+				<br /><table class="formulario">
+<tbody>
+<tr>
+<td class="formulario-label"><label>Ambiente </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Razón Social </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Nombre Comercial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Número RUC </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Clave de acceso </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Punto de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Secuencial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección matriz </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Fecha Emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección de Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Contribuyente Especial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Obligado Contabilidad </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo de Id de Sujeto Retenido </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Id de Sujeto Retenido </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Razón Social de Sujeto Retenido </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Ejercicio Fiscal </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+</tbody>
+</table>
+</div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-4990135355172336820:3688109124192425100" autocomplete="off" />
+</form></div></div><script id="j_idt616_s" type="text/javascript">$(function() {PrimeFaces.cw('Dialog','dlgPanelComprobanteRetencion',{id:'j_idt616',draggable:false,modal:true,width:850,height:650});});</script><div id="j_idt684" class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span class="ui-dialog-title">Detalle del Comprobante</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content">
+<form id="form-detalle-guia-remision" name="form-detalle-guia-remision" method="post" action="/comprobantes-electronicos-internet/pages/consultas/recibidos/comprobantesRecibidos.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="form-detalle-guia-remision" value="form-detalle-guia-remision" />
+<div id="form-detalle-guia-remision:panel-detalle-guia-remision">
+				<div style="text-align: center;"><span style="FONT-WEIGHT: bold; FONT-SIZE: x-large;">La Información impresa no tiene validez tributaria</span>
+				</div>	
+				<br />Detalle guía de remisión<table class="formulario">
+<tbody>
+<tr>
+<td class="formulario-label"><label>Ambiente </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Razón Social </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Nombre Comercial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Número RUC </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Clave de acceso </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Punto de emisión </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Secuencial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección matriz </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección Establecimiento </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Dirección de Partida </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Razón Social de Transportista </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>RISE </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Obligado Contabilidad </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Contribuyente Especial </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Fecha de Inicio de Transporte </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Fecha de Fin de Transporte </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Placa de Vehículo </label></td>
+<td class=" middle"><label></label></td>
+</tr>
+</tbody>
+</table>
+<table class="formulario">
+<tbody>
+<tr>
+<td class="formulario-label"><table id="form-detalle-guia-remision:tabla-destinatarios" class="rf-dt reporte"><colgroup span="12"></colgroup><thead id="form-detalle-guia-remision:tabla-destinatarios:th" class="rf-dt-thd"><tr id="form-detalle-guia-remision:tabla-destinatarios:ch" class="rf-dt-shdr"><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt731"><span style="text-align:center;">Nro</span></th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt734">Identificación de Destinatario</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt737">Razón Social</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt740">Dirección</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt743">Motivo de Traslado</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt746">No. Doc. de Aduana </th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt749">Cod. Establecimiento Destino</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt752">Ruta</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt755">No. Doc. Sustento</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt758">No. Autorización Sustento</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt761">Fecha Doc. Sustento</th><th class="rf-dt-shdr-c" scope="col" id="form-detalle-guia-remision:tabla-destinatarios:j_idt764">Detalles</th></tr></thead><tfoot id="form-detalle-guia-remision:tabla-destinatarios:tf" class="rf-dt-tft"><tr id="form-detalle-guia-remision:tabla-destinatarios:f" class="rf-dt-ftr"><td class="rf-dt-ftr-c" colspan="12"><span class="rf-ds " id="form-detalle-guia-remision:tabla-destinatarios:j_idt778"><span class="rf-ds-btn rf-ds-btn-first rf-ds-dis" id="form-detalle-guia-remision:tabla-destinatarios:j_idt778_ds_f">««««</span><span class="rf-ds-btn rf-ds-btn-fastrwd rf-ds-dis" id="form-detalle-guia-remision:tabla-destinatarios:j_idt778_ds_fr">««</span><span class="rf-ds-btn rf-ds-btn-prev rf-ds-dis" id="form-detalle-guia-remision:tabla-destinatarios:j_idt778_ds_prev">«</span><span class="rf-ds-btn rf-ds-btn-next rf-ds-dis" id="form-detalle-guia-remision:tabla-destinatarios:j_idt778_ds_next">»</span><span class="rf-ds-btn rf-ds-btn-fastfwd rf-ds-dis" id="form-detalle-guia-remision:tabla-destinatarios:j_idt778_ds_ff">»»</span><span class="rf-ds-btn rf-ds-btn-last rf-ds-dis" id="form-detalle-guia-remision:tabla-destinatarios:j_idt778_ds_l">»»»»</span><script type="text/javascript">new RichFaces.ui.DataScroller("form\u002Ddetalle\u002Dguia\u002Dremision:tabla\u002Ddestinatarios:j_idt778",function(event,element,data){RichFaces.ajax("form\u002Ddetalle\u002Dguia\u002Dremision:tabla\u002Ddestinatarios:j_idt778",event,{"parameters":{"form\u002Ddetalle\u002Dguia\u002Dremision:tabla\u002Ddestinatarios:j_idt778:page":data.page} ,"incId":"1"} )},{"digitals":{} ,"buttons":{} ,"currentPage":1} )</script></span></td></tr></tfoot><tbody id="form-detalle-guia-remision:tabla-destinatarios:tb" class="rf-dt-b"><tr class="rf-dt-nd"><td colspan="12" class="rf-dt-nd-c" style="display: none;"></td></tr></tbody><tbody id="form-detalle-guia-remision:tabla-destinatarios:sc"><tr><td style="display: none"><script type="text/javascript">new RichFaces.ui.DataTable("form\u002Ddetalle\u002Dguia\u002Dremision:tabla\u002Ddestinatarios",{"ajaxEventOptions":{} } )</script></td></tr></tbody></table></td>
+</tr>
+</tbody>
+</table>
+</div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-4990135355172336820:3688109124192425100" autocomplete="off" />
+</form></div></div><script id="j_idt684_s" type="text/javascript">$(function() {PrimeFaces.cw('Dialog','dlgPanelGuiaRemision',{id:'j_idt684',draggable:false,modal:true,width:850,height:650});});</script><div id="j_idt779" class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span class="ui-dialog-title">Documentos Relacionados</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content">
+<form id="frmPrincipalMpn" name="frmPrincipalMpn" method="post" action="/comprobantes-electronicos-internet/pages/consultas/recibidos/comprobantesRecibidos.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="frmPrincipalMpn" value="frmPrincipalMpn" />
+<span id="frmPrincipalMpn:j_idt780"><div id="frmPrincipalMpn:pnlCabecera">Detalle del comprobante<table>
+<tbody>
+<tr>
+<td class="formulario-label"><label>Tipo de comprobante</label></td>
+<td class=" topped"></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Clave de acceso</label></td>
+<td class=" topped"></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Nro. Autorización</label></td>
+<td class=" topped"></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Fecha emisión</label></td>
+<td class=" topped"></td>
+</tr>
+<tr>
+<td class="formulario-label"><label>Tipo de emisión</label></td>
+<td class=" topped"></td>
+</tr>
+</tbody>
+</table>
+</div><div id="frmPrincipalMpn:pnlDetalle" style="margin-top:20px">No tiene documentos relacionados </div></span><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-4990135355172336820:3688109124192425100" autocomplete="off" />
+</form></div></div><script id="j_idt779_s" type="text/javascript">$(function() {PrimeFaces.cw('Dialog','dlgDocumentosRelacionados',{id:'j_idt779',draggable:false,modal:true,width:850,height:650});});</script><div id="j_idt827" class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span class="ui-dialog-title">Archivo XML</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content">Para visualizar el archivo correctamente debe utilizar un visor de archivos XML.Se recomienda utilizar Firefox.
+<form id="j_idt830" name="j_idt830" method="post" action="/comprobantes-electronicos-internet/pages/consultas/recibidos/comprobantesRecibidos.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_idt830" value="j_idt830" />
+<input type="submit" name="j_idt830:j_idt831" value="Descargar" /><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-4990135355172336820:3688109124192425100" autocomplete="off" />
+</form></div></div><script id="j_idt827_s" type="text/javascript">$(function() {PrimeFaces.cw('Dialog','dlgDescargarArchivo',{id:'j_idt827',draggable:false,modal:true,width:400,height:90});});</script></div>
+                        <!-- FIN contenido -->
+
+                        <!-- FIN contenedor Centro --></div>
+                    <!-- Fin contenedorPrincipal --><span style="clear:both;display:block;"> </span></div></td>
+</tr>
+</tbody>
+</table>
+<div id="ajaxScriptPanelGroup">
+                <script type="text/javascript">
+                                    requestAjax('https://srienlinea.sri.gob.ec/tuportal-internet/pages/menuGeneralMyPortal/comun.jsp', ['menuMPT'], {});
+                </script></div><div id="estadoTributarioModalPanel" style="visibility: hidden;"><div class="rf-pp-shade" id="estadoTributarioModalPanel_shade" style="z-index:100;"><button class="rf-pp-btn" id="estadoTributarioModalPanelFirstHref" name="estadoTributarioModalPanelfirstHref"></button></div><div class="rf-pp-cntr " id="estadoTributarioModalPanel_container" style="position: fixed; z-index:100; "><div class="rf-pp-shdw" id="estadoTributarioModalPanel_shadow"></div><div class="rf-pp-hdr " id="estadoTributarioModalPanel_header"><div class="rf-pp-hdr-cnt" id="estadoTributarioModalPanel_header_content">Obligaciones Pendientes</div></div><div class="rf-pp-hdr-cntrls " id="estadoTributarioModalPanel_header_controls"><a href="#" onclick="RichFaces.$('estadoTributarioModalPanel').hide();                                         return false;">X</a></div><div class="rf-pp-cnt-scrlr" id="estadoTributarioModalPanel_content_scroller"><div class="rf-pp-cnt" id="estadoTributarioModalPanel_content">El contribuyente tiene obligaciones pendientes con el SRI. Son las siguientes: 
+                <br /><table id="obligaciones-table" class="rf-dt reporte"><colgroup span="3"></colgroup><thead id="obligaciones-table:th" class="rf-dt-thd"><tr id="obligaciones-table:ch" class="rf-dt-shdr"><th class="rf-dt-shdr-c" scope="col" id="obligaciones-table:j_idt841"><span style="text-align:center;">No.</span></th><th class="rf-dt-shdr-c" scope="col" id="obligaciones-table:j_idt844"><span style="text-align:center;">Obligación Pendiente</span></th><th class="rf-dt-shdr-c" scope="col" id="obligaciones-table:j_idt847"><span style="text-align:center;">Período</span></th></tr></thead><tbody id="obligaciones-table:tb" class="rf-dt-b"><tr id="obligaciones-table:0" class="rf-dt-r rf-dt-fst-r impar"><td id="obligaciones-table:0:j_idt841" class="rf-dt-c" style="text-align:center;">1</td><td id="obligaciones-table:0:j_idt844" class="rf-dt-c" style="text-align:center;">IVA MENSUAL</td><td id="obligaciones-table:0:j_idt847" class="rf-dt-c" style="text-align:center;">NOVIEMBRE 2019</td></tr><tr id="obligaciones-table:1" class="rf-dt-r par"><td id="obligaciones-table:1:j_idt841" class="rf-dt-c" style="text-align:center;">2</td><td id="obligaciones-table:1:j_idt844" class="rf-dt-c" style="text-align:center;">IVA MENSUAL</td><td id="obligaciones-table:1:j_idt847" class="rf-dt-c" style="text-align:center;">OCTUBRE 2019</td></tr><tr id="obligaciones-table:2" class="rf-dt-r impar"><td id="obligaciones-table:2:j_idt841" class="rf-dt-c" style="text-align:center;">3</td><td id="obligaciones-table:2:j_idt844" class="rf-dt-c" style="text-align:center;">IVA MENSUAL</td><td id="obligaciones-table:2:j_idt847" class="rf-dt-c" style="text-align:center;">SEPTIEMBRE 2019</td></tr><tr id="obligaciones-table:3" class="rf-dt-r par"><td id="obligaciones-table:3:j_idt841" class="rf-dt-c" style="text-align:center;">4</td><td id="obligaciones-table:3:j_idt844" class="rf-dt-c" style="text-align:center;">IVA MENSUAL</td><td id="obligaciones-table:3:j_idt847" class="rf-dt-c" style="text-align:center;">AGOSTO 2019</td></tr></tbody><tbody id="obligaciones-table:sc"><tr><td style="display: none"><script type="text/javascript">new RichFaces.ui.DataTable("obligaciones\u002Dtable",{"ajaxEventOptions":{} } )</script></td></tr></tbody></table> 
+                <br /><a href="" onclick="RichFaces.$('estadoTributarioModalPanel').hide(); return false;">Volver</a></div></div></div><script type="text/javascript">new RichFaces.ui.PopupPanel("estadoTributarioModalPanel",{"height":420,"width":650} );</script></div></body>
+</html>

@@ -1,0 +1,44 @@
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 0.0.0.0
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 0.0.0.0
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 0.0.0.0
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 192.168.56.1
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 0.0.0.0
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 0.0.0.0
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 0.0.0.0
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 0.0.0.0
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 0.0.0.0
+- Salida usuario		 Fecha-Hora: 2016-08-01 01:08:46
+- Id distribuidor:		5
+- Id Usuario:		1
+- 		
+- Salida usuario		 Fecha-Hora: 2016-08-01 11:08:59
+- Id distribuidor:		5
+- Id Usuario:		1
+- 		
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 186.46.204.56
+- Salida usuario		 Fecha-Hora: 2016-08-02 01:08:34
+- Id distribuidor:		5
+- Id Usuario:		1
+- 		
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 181.113.97.11
+- Salida usuario		 Fecha-Hora: 2016-08-08 04:08:20
+- Id distribuidor:		5
+- Id Usuario:		1
+- 		
+- Salida usuario		 Fecha-Hora: 2016-08-08 04:08:24
+- Id distribuidor:		9
+- Id Usuario:		4
+- 		
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 186.4.187.21
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 186.46.200.47
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 186.46.200.47
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 186.46.200.47
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 186.4.187.21
+- Salida usuario		 Fecha-Hora: 2016-08-11 11:08:06
+- Id distribuidor:		5
+- Id Usuario:		1
+- 		
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 186.4.187.21
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 186.4.187.21
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 186.4.187.21
+- Sin permisos		Hubo un intento de ingreso sin credenciales IP: 186.4.187.21

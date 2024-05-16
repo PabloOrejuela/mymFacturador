@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0304202401179125704900120010520040844532587123417</numeroAutorizacion>
+<fechaAutorizacion>2024-04-03T15:15:47-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SALUDSA SISTEMA DE MEDICINA PREPAGADA DEL ECUADOR S.A.</razonSocial>
+    <nombreComercial>SALUD S.A.</nombreComercial>
+    <ruc>1791257049001</ruc>
+    <claveAcceso>0304202401179125704900120010520040844532587123417</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>052</ptoEmi>
+    <secuencial>004084453</secuencial>
+    <dirMatriz>Quito: REPUBLICA DEL SALVADOR N36-84 Y AV. NACIONES UNIDAS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>03/04/2024</fechaEmision>
+    <dirEstablecimiento>Quito: REPUBLICA DEL SALVADOR N36-84 Y AV. NACIONES UNIDAS</dirEstablecimiento>
+    <contribuyenteEspecial>02239</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>OROZCO AULESTIA KARINA CECILIA</razonSocialComprador>
+    <identificacionComprador>1713654315</identificacionComprador>
+    <direccionComprador>SAN MATEO SN SAN CAMILO REFERENCIA:</direccionComprador>
+    <totalSinImpuestos>320.99</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>320.99</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>322.59</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>322.59</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>4075077-IND</codigoPrincipal>
+      <descripcion>MEDICINA PREPAGADA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>89.37</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>89.37</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Detalle-Adicional" valor="BALDEON FRANCO HECTOR ULPIANO" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>89.37</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>4075077-IND</codigoPrincipal>
+      <descripcion>MEDICINA PREPAGADA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>105.65</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>105.65</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Detalle-Adicional" valor="OROZCO AULESTIA KARINA CECILIA" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>105.65</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>4075077-IND</codigoPrincipal>
+      <descripcion>MEDICINA PREPAGADA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>57.77</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>57.77</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Detalle-Adicional" valor="BALDEON OROZCO MARTHA ANABEL" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>57.77</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>4075077-IND</codigoPrincipal>
+      <descripcion>MEDICINA PREPAGADA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>34.10</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>34.10</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Detalle-Adicional" valor="BALDEON OROZCO DOMINICK ANAHI" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>34.10</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>4075077-IND</codigoPrincipal>
+      <descripcion>MEDICINA PREPAGADA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>34.10</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>34.10</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Detalle-Adicional" valor="BALDEON OROZCO STEPHANY VALENTINA" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>34.10</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <otrosRubrosTerceros>
+    <rubro>
+      <concepto>SeguroCampesino</concepto>
+      <total>1.60</total>
+    </rubro>
+    <rubro>
+      <concepto>SeguroCampesinoRetroactivo</concepto>
+      <total>0.00</total>
+    </rubro>
+  </otrosRubrosTerceros>
+  <infoAdicional>
+    <campoAdicional nombre="emailCliente">karinaorozco@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Seguro Campesino">1.60</campoAdicional>
+    <campoAdicional nombre="Seguro Campesino Retroactivo">0.00</campoAdicional>
+    <campoAdicional nombre="Periodo Pago">08/04/2024 - 08/05/2024</campoAdicional>
+    <campoAdicional nombre="Total">322.59</campoAdicional>
+    <campoAdicional nombre="Empresa-Lista-Contrato">SIERRA-IND-4075077</campoAdicional>
+    <campoAdicional nombre="Vigencia">08/10/2023 - 08/10/2024</campoAdicional>
+    <campoAdicional nombre="Periodo-facturacion">Mensual</campoAdicional>
+    <campoAdicional nombre="Direccion-cliente">SAN MATEO SN SAN CAMILO REFERENCIA:</campoAdicional>
+    <campoAdicional nombre="broker">.</campoAdicional>
+    <campoAdicional nombre="email-broker">.</campoAdicional>
+    <campoAdicional nombre="email-contacto">.</campoAdicional>
+    <campoAdicional nombre="telefono-cliente">.</campoAdicional>
+    <campoAdicional nombre="tipoContribuyente">Gran Contribuyente según resolución Nro. NAC-GCFOIOC21-00001132-E</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-ff7ae76b-b7b2-4671-9c42-881c7f952177"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-6bd74823-ed1a-449f-859a-6763ce806c64" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>bO1DEGTGiqHR2LMynXg2ykL0jKXkw2y7zBT5RHggids=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-ff7ae76b-b7b2-4671-9c42-881c7f952177"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>xIeA3KmBS+wwztUUYxJ5eoICXh0HgY/SjbbiXvY0+aw=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-ff7ae76b-b7b2-4671-9c42-881c7f952177"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>IIBLIgtMdSRLyHQUYZ2pOY6XjoSLm6Jh8XyGE1Vh+GY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-ff7ae76b-b7b2-4671-9c42-881c7f952177">ePSc70yfG//EhJrIiDlrW/8KjBOIqjHkSch5SWlre7UUeuSSz+34NoMnFtTMX+h3bbwz+m6Eb/6JcXnkkTVaew50UoIfq/Stn60oa3ymB+lr9mdIW6YjRSOeIELC2pp3qENIc9Gcp2zzSgRuflzZKKPx2NG6VBJzhsDQd28MLNckgLH904xtzNIZ88Hk7h+/9fsD8YcE0S0OZbRgFYfQqR8/uYgL0GwpgyfiNDcJm+ncl1Hcbzs9ad7TBQBXdOJPWBfs/VuaYMVs9fIWFzLLbVuok3S6/0HonoShQy1Gv5zybnFcf3rtObERJU+rlbS/nSPscftNMDTF5XjWdiLlyQ==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-ff7ae76b-b7b2-4671-9c42-881c7f952177"><ds:X509Data><ds:X509Certificate>MIIMRDCCCiygAwIBAgIEFPEwHTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA3MTMwMjA5MTFaFw0yNDA3MTIwMjA5MTFaMIGgMSkwJwYDVQQDDCBDTEFSQSBET0xPUkVTIEZBUklOQU5HTyBDSVNORVJPUzEVMBMGA1UEBRMMMTIwNzIyMjExODU1MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANMzapGEtemmR/xClQD79MjbZO7U5DIBx2bca0FHovouz4TrO0Z8XTDcGkFidgC75L7LVdgy2GeyoDsjOja+ndTSOUUyRxZd1ejbD04Luh9FLExr7gw0m6zqKGmfgY4r1n8Ze0Oq+JTBRC/ywbGK+f1dRLW+eCOHvuWnmHb62Y29Cu7EGgjQ1zTVCryjcFKUJ9CJvyMTaC1mkGVbID3Fml3F6pPVW5n1HwS4FfpTiCSN+EJyFA75hv/+zAXH3ULzj3BRnyAdn0aBCqp7L1eXYOSXZQYW1mQRDLGQjRchnODFnJVBoYhfxOD1rGXxhpc6Mi56pZi+B+2cdPrM1RO1Y8UCAwEAAaOCB4kwggeFMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCQGA1UdEQQdMBuBGWNmYXJpbmFuZ29Ac2FsdWRzYS5jb20uZWMwggESBgNVHSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUXrizMJVxvcUgf/NI2mpVeMsbR4gwKwYDVR0QBCQwIoAPMjAyMjA3MTMwMjA5MTFagQ8yMDI0MDcxMjAyMDkxMVowCwYDVR0PBAQDAgXgMCcGCisGAQQBgqZyAwUEGQwXR0VSRU5URSBERSBDT05UQUJJTElEQUQwGgYKKwYBBAGCpnIDAQQMDAoxNzEzMzEzODEzMBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGCpnIDIgQDDAEuMEMGCisGAQQBgqZyAwcENQwzUkVQVUJMSUNBIERFTCBTQUxWQURPUiBOMzYtODQgWSBBVi4gTkFDSU9ORVMgVU5JREFTMB0GCisGAQQBgqZyAwIEDwwNQ0xBUkEgRE9MT1JFUzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDIyNzg5NjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGQYKKwYBBAGCpnIDAwQLDAlGQVJJTkFOR08wRgYKKwYBBAGCpnIDCgQ4DDZTQUxVRFNBIFNJU1RFTUEgREUgTUVESUNJTkEgUFJFUEFHQURBIERFTCBFQ1VBRE9SIFMuQS4wHQYKKwYBBAGCpnIDCwQPDA0xNzkxMjU3MDQ5MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wGAYKKwYBBAGCpnIDBAQKDAhDSVNORVJPUzAaBgorBgEEAYKmcgMIBAwMCjA5OTg5MTA5OTgwDQYJKoZIhvcNAQELBQADggIBAFKGRSO6ZAOQRpJlM66TBtLraTMqe5535ncAPtEKOl3T/EIerw4iTzIaNjz5PY3qqQM9gm/H46kZGYB69QpXVlyZeHBQSxa25VCl4nJeX0OKtCMmyOPRva22MilDaE4k/okn/qn+tleqOW/fqAltlKpamay/7vzcB0O4G5aN4zHWpChXaboqXGnqM3EZH1xTKG53Tp3vAELgs1eiS//jbtDtseAW5tHkCWNySxf0Z0KhzoZkURQVFUyN3qI0x1kfzo9p3ae7GNpbHThT6DC1Pvy6p6VPzFHQFWUyPccu7oljWA2Y4QMG74cutH5Wk/yDOswnD1c63jkGHAuuOxW0c0yFkLGlRAdLTGZng3LaxXc4sIJlQxMzSd5wnM6Ss0rfcSUcVI41tq3nXe+bxw0EoqMcubhNyv1hjIsxYalhI9aYEB9fEtxnkScUUQ+b47oIQn9v+4JPw46OzkTuZMFln+3D3SZJPz/17/dJWbSJk9RwtqD1kNLaMPnKzPFeEclHXt6fmRNGiQpLwfAu7G2DGh4X57sepCvocvkOmdQgejo9+RpRX3vzwRWBYy2D5M3WM10MLTmjlMSl34zu7o+2yRMr5EMbwvruCXXJoeTtpMGzz7jqoI7uCDW0g4jOnmju0z1B/CpfYPQLfD+iJsEqQHBZuEPif8t9F6co0QU37q8m</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>0zNqkYS16aZH/EKVAPv0yNtk7tTkMgHHZtxrQUei+i7PhOs7RnxdMNwaQWJ2ALvkvstV2DLYZ7KgOyM6Nr6d1NI5RTJHFl3V6NsPTgu6H0UsTGvuDDSbrOooaZ+BjivWfxl7Q6r4lMFEL/LBsYr5/V1Etb54I4e+5aeYdvrZjb0K7sQaCNDXNNUKvKNwUpQn0Im/IxNoLWaQZVsgPcWaXcXqk9VbmfUfBLgV+lOIJI34QnIUDvmG//7MBcfdQvOPcFGfIB2fRoEKqnsvV5dg5JdlBhbWZBEMsZCNFyGc4MWclUGhiF/E4PWsZfGGlzoyLnqlmL4H7Zx0+szVE7VjxQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-377a2232-77f3-45cc-a715-b57f01344545"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-a42f21b2-0cce-40d2-a0c5-e5f3451bd27b" Target="#Signature-ff7ae76b-b7b2-4671-9c42-881c7f952177"><xades:SignedProperties Id="SignedProperties-Signature-ff7ae76b-b7b2-4671-9c42-881c7f952177"><xades:SignedSignatureProperties><xades:SigningTime>2024-04-03T15:15:47-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>J1IWtCzQZ3BM5p9CwKcVzYcLeYGsUvZAxZ6WGtAUjx0=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>351350813</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate><xades:SignaturePolicyIdentifier><xades:SignaturePolicyId><xades:SigPolicyId><xades:Identifier>https://info.saludsa.com</xades:Identifier><xades:Description /></xades:SigPolicyId><xades:SigPolicyHash><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>Ohixl6upD6av8N7pEvDABhEL6hM=</ds:DigestValue></xades:SigPolicyHash></xades:SignaturePolicyId></xades:SignaturePolicyIdentifier><xades:SignerRole><xades:ClaimedRoles><xades:ClaimedRole>emisor</xades:ClaimedRole></xades:ClaimedRoles></xades:SignerRole></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-6bd74823-ed1a-449f-859a-6763ce806c64"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

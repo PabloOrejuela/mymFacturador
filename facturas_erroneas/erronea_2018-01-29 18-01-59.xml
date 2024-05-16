@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<gastosPersonales>
+    <tipoIdentificacion>C</tipoIdentificacion>
+    <identificacion>1720258027</identificacion>
+    <nombresApellidos>CONDOLO GALLEGOS HUGO DAVID</nombresApellidos>
+    <dirCalle>MANUEL CORDOVA GALAR</dirCalle>
+    <dirNumero>10</dirNumero>
+    <dirInterseccion>EL EDEN</dirInterseccion>
+    <dirProvincia>217</dirProvincia>
+    <dirCanton>21701</dirCanton>
+    <periodoFiscal>2014</periodoFiscal>
+<gastos>
+<detalleGasto>
+    <rucProveedor>0990858322001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>16.00</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1306483569001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>12.78</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1310643844001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>6.30</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1312182320001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>40.00</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1703885903001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>50.00</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1706770821001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>90.00</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1719669614001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>12.67</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790016919001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>11.13</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790558886001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>46.88</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790710319001</rucProveedor>
+    <totalComprobantesVenta>5</totalComprobantesVenta>
+    <totalBaseImponible>145.00</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1791715772001</rucProveedor>
+    <totalComprobantesVenta>12</totalComprobantesVenta>
+    <totalBaseImponible>160.42</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1791984722001</rucProveedor>
+    <totalComprobantesVenta>22</totalComprobantesVenta>
+    <totalBaseImponible>502.25</totalBaseImponible>
+    <tipoGasto>3</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0600936496001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>50.00</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0700892268001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>5.00</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0801857418001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>19.25</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0900127564001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>15.63</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0909047235001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>15.00</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0910190354001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>15.63</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0930511688001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>12.68</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0990004196001</rucProveedor>
+    <totalComprobantesVenta>7</totalComprobantesVenta>
+    <totalBaseImponible>117.22</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0990017514001</rucProveedor>
+    <totalComprobantesVenta>26</totalComprobantesVenta>
+    <totalBaseImponible>825.06</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1003103247001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>9.15</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1303886061001</rucProveedor>
+    <totalComprobantesVenta>8</totalComprobantesVenta>
+    <totalBaseImponible>66.13</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1304679747001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>6.61</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1305985234001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>4.24</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1307105914001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>6.25</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1391749473001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>9.63</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1391771770001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>14.68</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1391786476001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>23.66</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1500288103001</rucProveedor>
+    <totalComprobantesVenta>5</totalComprobantesVenta>
+    <totalBaseImponible>80.76</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1500315583001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>9.97</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1500443609001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>21.87</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1500473952001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>56.70</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1500861610001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>33.25</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1700883141001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>33.55</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1708060452001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>11.80</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1709801599001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>9.50</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1711480713001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>35.00</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1711551430001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>39.45</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1712935426001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>16.88</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1713160313001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>26.10</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1714629795001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>13.79</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1715460497001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>65.63</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1716050487001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>40.00</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1719888214001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>6.20</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1721424768001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>28.70</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1721575577001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>11.65</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790016919001</rucProveedor>
+    <totalComprobantesVenta>9</totalComprobantesVenta>
+    <totalBaseImponible>280.59</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790527085001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>69.49</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1791415132001</rucProveedor>
+    <totalComprobantesVenta>13</totalComprobantesVenta>
+    <totalBaseImponible>163.24</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1791849353001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>44.80</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1791952359001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>11.94</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1791965558001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>5.62</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1791997891001</rucProveedor>
+    <totalComprobantesVenta>4</totalComprobantesVenta>
+    <totalBaseImponible>59.37</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1792049504001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>16.91</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1792060346001</rucProveedor>
+    <totalComprobantesVenta>10</totalComprobantesVenta>
+    <totalBaseImponible>829.66</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1792072018001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>44.37</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1792379776001</rucProveedor>
+    <totalComprobantesVenta>4</totalComprobantesVenta>
+    <totalBaseImponible>81.47</totalBaseImponible>
+    <tipoGasto>5</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1792398673001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>13.61</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1800059030001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>13.70</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>2100144472001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>6.70</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0990021058001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>5.20</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1701356758001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>8.00</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1705613592001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>3.00</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1707000996001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>25.45</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1707268254001</rucProveedor>
+    <totalComprobantesVenta>3</totalComprobantesVenta>
+    <totalBaseImponible>26.79</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1707425656001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>12.59</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1707582639001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>13.40</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790016919001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>100.26</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790040275001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>6.31</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790819515001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>35.80</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790844463001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>11.81</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1791903633001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>63.39</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1791989023001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>8.93</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1792202728001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>7.14</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790016919001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>16.96</totalBaseImponible>
+    <tipoGasto>1</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1000986750001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>53.57</totalBaseImponible>
+    <tipoGasto>1</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1704878543001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>7.26</totalBaseImponible>
+    <tipoGasto>1</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1712292869001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>6.25</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1712292869001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>10.71</totalBaseImponible>
+    <tipoGasto>1</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1717441479001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>16.96</totalBaseImponible>
+    <tipoGasto>1</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790041220001</rucProveedor>
+    <totalComprobantesVenta>5</totalComprobantesVenta>
+    <totalBaseImponible>463.89</totalBaseImponible>
+    <tipoGasto>1</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790746119001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>43.77</totalBaseImponible>
+    <tipoGasto>1</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790896544001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>46.88</totalBaseImponible>
+    <tipoGasto>1</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1792295807001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>17.86</totalBaseImponible>
+    <tipoGasto>1</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1722164132001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>1715.89</totalBaseImponible>
+    <tipoGasto>1</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0103260006001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>3.57</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>0991210245001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>18.85</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1000986750001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>22.32</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1391748485001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>13.30</totalBaseImponible>
+    <tipoGasto>4</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1700883141001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>9.24</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1703532299001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>65.71</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1704365400001</rucProveedor>
+    <totalComprobantesVenta>3</totalComprobantesVenta>
+    <totalBaseImponible>83.92</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1704862935001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>7.09</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1705069514001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>15.18</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1706388335001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>53.56</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1707769921001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>47.42</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1707839518001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>267.89</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1708841414001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>153.57</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1710894914001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>7.68</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1717238115001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>9.64</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1722164132001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>1442.04</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790006506001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>7.05</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1790985504001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>204.24</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1791413237001</rucProveedor>
+    <totalComprobantesVenta>4</totalComprobantesVenta>
+    <totalBaseImponible>232.20</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1791963695001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>14.99</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1792343178001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>107.12</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>2200011977001</rucProveedor>
+    <totalComprobantesVenta>2</totalComprobantesVenta>
+    <totalBaseImponible>71.34</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1711469344001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>462.68</totalBaseImponible>
+    <tipoGasto>2</tipoGasto>
+</detalleGasto>
+
+<detalleGasto>
+    <rucProveedor>1711538056001</rucProveedor>
+    <totalComprobantesVenta>1</totalComprobantesVenta>
+    <totalBaseImponible>259.81</totalBaseImponible>
+    <tipoGasto>1</tipoGasto>
+</detalleGasto>
+</gastos></gastosPersonales>

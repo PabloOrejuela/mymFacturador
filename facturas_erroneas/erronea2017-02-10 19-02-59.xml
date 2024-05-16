@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0501201701200690200000258209909170518</numeroAutorizacion>
+<fechaAutorizacion>2017-01-05T13:55:47-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial><![CDATA[SUPRINSA Su proveedor industrial S.A.]]></razonSocial><nombreComercial><![CDATA[LCH - El Inca Quito]]></nombreComercial><ruc>0990917051001</ruc><claveAcceso>0501201701099091705100120069020000025821234567811</claveAcceso><codDoc>01</codDoc><estab>006</estab><ptoEmi>902</ptoEmi><secuencial>000002582</secuencial><dirMatriz><![CDATA[Cdla. Adace calle 7ma y C Esq.]]></dirMatriz></infoTributaria><infoFactura><fechaEmision>05/01/2017</fechaEmision><dirEstablecimiento><![CDATA[Av. El Inca E8-43 y 6 de Diciembre]]></dirEstablecimiento><contribuyenteEspecial>198</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador><![CDATA[MARTHA DEL ROCIO FLOR CISNEROS]]></razonSocialComprador><identificacionComprador>1707361315001</identificacionComprador><totalSinImpuestos>13.21</totalSinImpuestos><totalDescuento>2.07</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>3</codigoPorcentaje><baseImponible>13.21</baseImponible><valor>1.85</valor></totalImpuesto></totalConImpuestos><propina>0.0</propina><importeTotal>15.06</importeTotal><moneda>DOLAR</moneda></infoFactura><detalles><detalle><codigoPrincipal>600034</codigoPrincipal><descripcion><![CDATA[LLAVE P/ANILLO(2284)D/PISTON 2.1/8-5" KD TOOL"]]></descripcion><cantidad>1.0</cantidad><precioUnitario>15.28</precioUnitario><descuento>2.07</descuento><precioTotalSinImpuesto>13.21</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>3</codigoPorcentaje><tarifa>14.0</tarifa><baseImponible>13.21</baseImponible><valor>1.85</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Email">piaflorc@hotmail.com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature713">
+<ds:SignedInfo Id="Signature-SignedInfo847457">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID897117" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature713-SignedProperties612162">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6QjRlIlS5QX/uZZEJIZ7Z0BDFHI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1253286">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Xg1a4yoG5UhO62rlQiKjFbS04VE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-815734" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>w4yenDr1SdlNPnpeOcOohWypqIk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue675948">
+UqZIRzuo6CB15B1BXm2hGDpOcrMIr9NvucDaNZ2Orf8zvIfd3FniS1lcOAUpF3Ksg1BrRgg1qPYa
+pHj4lIZBtXCe4MamUXfF8ua4lwUUZBvh+WI9obVWqrDwtEnoKXf4leEq16TUuapVvjcK8GSnzH+Q
+XRuF0L1DaZ8r+xhE/Zz9crSa8Z+6u83rFMQ3L5SgiLs3m1bmSgprJwnGlWBLATXH0CY0AgbcDxm3
+O8HBTlNeF/CkDwUM29pL4obfymFJJdSsWwsczNkWYY+bdU4GMCWHASzGbVTn70bsiEUFAvDXjyDY
+ytHVAoTRUat7jU6cY0ipp1RVFgC5/CI7QMFEvw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1253286">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJazCCB1OgAwIBAgIETkWZSDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE1MTIwNDIwMTIxNloXDTE3MTIwNDIwNDIx
+Nlowga8xCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzEzMBEGA1UEBRMKMDAwMDA5Mjk1NDAeBgNVBAMTF01JR1VFTCBBTkdFTCBN
+RUxPIEdPTUVaMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApZYZA0loshuvxfFPYQ8h
+QDEinpeESppshx6u/tEiu6ZopoPMulr333a6MiBZ2AKlzoj7r9tXpUA0hAamSpW3LwpC3l9o72xd
+Mo9b9Q4UbC/bq18+kKCoQ3pG10kHC0QLLjj0tgNf7SGoRzk/jj/7dD3SqfOENOxYkTsjBA7CC/13
+Q2kz5FpSZUYVmJPgiG9/iCjLxF9Gr4vMZOaOn+vG2J6a5bysrYyd+p8wzhQFafOPrLcZhmYvGykC
+eTjXlG8rScu24Pu9se3YOZ6gJy2camsK2B2o5JphAjtSReWKjVENbjevK/B7Wpz8GWytKwkgYTGn
+5rcFOOGDnXJz1Jb4FQIDAQABo4IEmTCCBJUwgZEGCCsGAQUFBwEBBIGEMIGBMD4GCCsGAQUFBzAB
+hjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDA/Bggr
+BgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9v
+Y3NwMDQGCisGAQQBgqg7AwoEJhMkU1VQUklOU0EgU1UgUFJPVkVFRE9SIElORFVTVFJJQUwgUyBB
+MB0GCisGAQQBgqg7AwsEDxMNMDk5MDkxNzA1MTAwMTAaBgorBgEEAYKoOwMBBAwTCjA5MTA0MDIz
+MDQwHAYKKwYBBAGCqDsDAgQOEwxNSUdVRUwgQU5HRUwwFAYKKwYBBAGCqDsDAwQGEwRNRUxPMBUG
+CisGAQQBgqg7AwQEBxMFR09NRVowHwYKKwYBBAGCqDsDBQQREw9HRVJFTlRFIEdFTkVSQUwwNQYK
+KwYBBAGCqDsDBwQnEyVDRExBIEFEQUNFIENBTExFIFNFUFRJTUEgU04gWSBDQUxMRSBDMBkGCisG
+AQQBgqg7AwgECxMJMDQyMjkwMDYxMBkGCisGAQQBgqg7AwkECxMJR3VheWFxdWlsMBcGCisGAQQB
+gqg7AwwECRMHRUNVQURPUjAgBgorBgEEAYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wJAYDVR0R
+BB0wG4EZbWlndWVsLmFuZ2VsQHN1cHJpbnNhLmNvbTCCAd8GA1UdHwSCAdYwggHSMIIBzqCCAcqg
+ggHGhoHVbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDI3OSxjbj1BQyUyMEJBTkNP
+JTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJU
+SUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBE
+RUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8v
+d3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG1MIGyMQswCQYD
+VQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJ
+VE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxDzANBgNVBAMTBkNSTDI3
+OTALBgNVHQ8EBAMCBSAwHwYDVR0jBBgwFoAUGPnw++YyHJlmOSrKi7JpfUknv84wHQYDVR0OBBYE
+FFjXAc6sRfYO+T1ZEloM8mK89DR+MAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAwwChsEVjguMQMC
+BJAwDQYJKoZIhvcNAQELBQADggIBAKMOS8Auh1VEEOIML4Y4QnMxPPmfIpDK/BhUkzU2irT1IxIq
+zoexW6NSBVCpJDfl9vwacpo0xU23BwdNvVrXfGQdCICDhYi5PY7kst+9byI+BDhd1qs+N0RhIH2s
+buTSwr+fDcJwOxy0vIKwEEzHDbyF3j5okwtEMK7OyBnzaXbN8sgf0+ctcfCJkuvBIKLjFBBPqSgJ
+8yDY8JLcNoGzgNS2cwEvaN1Zb+20U4js3dFoEC4ii2OPIeQLxF3i9w11NSVzTWNLF3fo2nM8LJr0
+9G9D6N0m6LwI3jPd4goGTg2pQIxhtGsnyTs54f4aYeLVimBikBbb4EdUyjgGoFjWNSN+KyDahFDy
+R4y3spxLXbykCNTxw5HpP8gxTIIjQTiFssm1KrWIGDOJ8dQ58u5neaJb1ZKuCXNtv2wFJ0GV076O
+vLGmL80KCrNhQmxdAHR1GOShl0kMv+uDk1SJyESiLrZDBNfuIwANiqRGvtavXh4OXG3BHeywp5Or
+2AawpWTQp8TjIzLCtN2EL9OsmaNYQw+x9pytadAecCu+hRMUzYFRr+uBbcIOb43vd2l6xhMt3cVD
+2a4jpbvSl/XGWVQpNkK3iThzPego49kCRSdkYjLTOIZgMo0UZCQ0VaTFkPgqtuDILwNC5FiM6kn2
+iXVT8BRZ2fxxFCAESWaqU0NJLG5I
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pZYZA0loshuvxfFPYQ8hQDEinpeESppshx6u/tEiu6ZopoPMulr333a6MiBZ2AKlzoj7r9tXpUA0
+hAamSpW3LwpC3l9o72xdMo9b9Q4UbC/bq18+kKCoQ3pG10kHC0QLLjj0tgNf7SGoRzk/jj/7dD3S
+qfOENOxYkTsjBA7CC/13Q2kz5FpSZUYVmJPgiG9/iCjLxF9Gr4vMZOaOn+vG2J6a5bysrYyd+p8w
+zhQFafOPrLcZhmYvGykCeTjXlG8rScu24Pu9se3YOZ6gJy2camsK2B2o5JphAjtSReWKjVENbjev
+K/B7Wpz8GWytKwkgYTGn5rcFOOGDnXJz1Jb4FQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature713-Object486208"><etsi:QualifyingProperties Target="#Signature713"><etsi:SignedProperties Id="Signature713-SignedProperties612162"><etsi:SignedSignatureProperties><etsi:SigningTime>2017-01-05T13:56:11-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>/U/y6J7A9VOCXJ4U2hEvy+jFKXE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1313184072</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-815734"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

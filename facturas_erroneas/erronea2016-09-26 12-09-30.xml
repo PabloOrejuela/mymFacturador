@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTOR
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>Econofarm S.A.</razonSocial>
+        <nombreComercial>SANAcacionComprador>
+        <razonSocialComprador>VITERI CUERO RODOLFO SANTIAGO</razonSocialComprador>
+        <identificacionComprador>1722948112</identificacionComprador>
+        <totalSinImpuestos>5.18</totalSinImpuestos>
+        <totalDescuento>0<>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>0.00</baseImponible>
+                <tarifa>0</tarifa>
+                <valor>0.00</valor>
+            </totalImpuesto>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>3</codigoPorcentaje>
+                <baseImponible>5.18</baseImponible>
+                <tarifa>14</tarifa>
+                <valor>0.73</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>5.91</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>5.91</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>187134</codigoPrincipal>
+            <descripcion>GEL BIOLANSGEL BIOLANS NORMAL 100 GR</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>1.08</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>1.08</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>3</codigoPorcentaje>
+                    <tarifa>14</tarifa>
+                    <baseImponible>1.08</baseImponible>
+                    <valor>0.15</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>261290</codigoPrincipal>
+            <descripcion>DESOD SPRAY ADIDAS HOMBREDESOD SPRAY ADIDAS HOMBRE BODY SPRAY DYNAMIC PULSE</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>4.1</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>4.1</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>3</codigoPorcentaje>
+                    <tarifa>14</tarifa>
+                    <baseImponible>4.10</baseImponible>
+                    <valor>0.57</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="DIRECCION">AV ELOY ALFARO CALLE 40</campoAdicional>
+        <campoAdicional nombre="DESCUENTO">0.42</campoAdicional>
+        <campoAdicional nombre="DOCUMENTO INTERNO">956376</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature243685"><ds:SignedInfo Id="Signature-SignedInfo589900"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID605434" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature243685-SignedProperties500419"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>GgEdkrnE00WHMk6Ca542qQFmAro=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate1125221"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>S5MQRwO8PXxaajrZ22zjJlhKaH4=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-584610" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>k6Qk1ltiCCaI/MbJ4kRSvJ3JWnc=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue524448">IKwpBbu9OEWMsegij5eAqotuhguiotC2gpKpWsIw3Pstq713yWWGuE6JrV3zlTDRT14vZTxy9y6FJVisDITkvaK64q/V37p+a5ym15CRB3ZuQBubfgvJt163lUFWHG0HTnk87kUvZ4VrXAhht1Lzp+0i6jly2ZCD6yxWxlB/DsqpGWIiMUav8uUi4PwORFvUGIEmkcTFzzZYi1YmT+X+OueneKgmTpd7TXhbxmD/8wB/G0LN18GXwqCZT5ieMsI8K12b5VYd2Rb3megr+GfE7jwG5fBgv7qJbRgvkA2VHV1hsBfkZbKE+8qwOXq89ihN68kcJ3jM+9maY4aMmU9pow==</ds:SignatureValue><ds:KeyInfo Id="Certificate1125221"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>
+wmoe2dq7kXxWeFd2kCgmOfd+mCvGsDW562GucFLQfNyE6SzQS3bZ4/AKk+VHYSZhMvsGy/U9OO7f3bx5NU6uq9GBRIXWg94o7IH2+H/E0BxzKLDvYzJYRm3gTXRghrrwaP9Kbsl4zNQuqIVILnGL900p2EBS3p/a5xaUHEN+CjquJ2ol7V/7D+zBOBmM5S1tn2Sy6+D7UW6lk24Cpy06zAY3kFGYM7KmjH8FyXpF2WjHq1ACZW19WZNFdezL/WcJwRFDg+T7LyUvTLdQNWqf3LXmu/Op3kc26qQ0Fj0WHBQhwc2tsEVruHdN4mO8I3yWEYX1BBwhqBbgfmjqftINxw==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature243685-Object1026384"><etsi:QualifyingProperties Target="#Signature243685"><etsi:SignedProperties Id="Signature243685-SignedProperties500419"><etsi:SignedSignatureProperties><etsi:SigningTime>2016-09-09T17:46:05-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>F2SgCgvZs1QK5Sn5ZHBsNYGYybk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1313160819</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-584610"><etsi:Description>Contenido Comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
